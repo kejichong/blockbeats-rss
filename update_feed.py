@@ -17,14 +17,49 @@ HEADERS = {
         "AppleWebKit/537.36 Chrome/134.0 Safari/537.36"
     )
 }
+CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
+ET.register_namespace("content", CONTENT_NS)
 
 
 def text(element, default=""):
     return element.get_text(strip=True) if element else default
 
 
+def absolutize_links(container, page_url):
+    for tag in container.find_all(href=True):
+        tag["href"] = urljoin(page_url, tag["href"])
+    for tag in container.find_all(src=True):
+        tag["src"] = urljoin(page_url, tag["src"])
+
+
+def fetch_article_content(session, url, fallback):
+    try:
+        response = session.get(url, timeout=60)
+        response.raise_for_status()
+        response.encoding = "utf-8"
+        article_soup = BeautifulSoup(response.text, "html.parser")
+        content = article_soup.select_one(".flash-content, .news-content")
+        if content:
+            for unwanted in content.select("script, style, noscript"):
+                unwanted.decompose()
+            absolutize_links(content, url)
+            body = content.decode_contents().strip()
+            if body:
+                return body
+
+        description_tag = article_soup.find("meta", attrs={"name": "description"})
+        if description_tag and description_tag.get("content"):
+            return f"<p>{description_tag['content']}</p>"
+    except requests.RequestException as exc:
+        print(f"Could not fetch article content from {url}: {exc}")
+
+    return f"<p>{fallback}</p>"
+
+
 def build_feed():
-    response = requests.get(SOURCE_URL, headers=HEADERS, timeout=60)
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    response = session.get(SOURCE_URL, timeout=60)
     response.raise_for_status()
     response.encoding = "utf-8"
     page_html = response.text
@@ -73,7 +108,12 @@ def build_feed():
         ET.SubElement(item, "title").text = title
         ET.SubElement(item, "link").text = link
         ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = link
-        ET.SubElement(item, "description").text = title
+        article_html = fetch_article_content(session, link, title)
+        article_html += (
+            f'<p><a href="{link}" target="_blank" rel="noopener">查看原文</a></p>'
+        )
+        ET.SubElement(item, "description").text = article_html
+        ET.SubElement(item, f"{{{CONTENT_NS}}}encoded").text = article_html
 
         article_match = re.search(r"/(?:flash|news)/(\d+)", anchor["href"])
         if article_match:
