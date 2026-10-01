@@ -5,8 +5,15 @@
     <link>https://www.theblockbeats.info/</link>
     <description>律动BlockBeats是华语区最具影响力的Web3和AI媒体之一。我们通过AI、预测市场和链上资金动向，让新闻更早地出现在BlockBeats上。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:45:10 +0000</lastBuildDate>
     <generator>blockbeats-rss</generator>
+    <item>
+      <title>NEAR Intents确认遭攻击，涉案金额超380万美元</title>
+      <link>https://www.theblockbeats.info/flash/369942</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369942</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，NEAR Intents 发布安全通报确认遭遇攻击，初步调查显示漏洞源于 Omni 充提基础设施与合约交互缺陷，已完成合约漏洞修复，预计 1 小时内恢复核心服务，同时承诺全额赔付受损资产；BSC、Polygon、TON 等多条公链充提将额外暂停约 12 小时，案件已同步报案并展开链上追踪。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;随后，链上侦探 ZachXBT 警示称，NEAR Intents 的 BSC 热钱包出现多笔异常流出，被盗资金已转入 KuCoin 并跨链至比特币网络，涉案金额超 380 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369942" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，NEAR Intents 发布安全通报确认遭遇攻击，初步调查显示漏洞源于 Omni 充提基础设施与合约交互缺陷，已完成合约漏洞修复，预计 1 小时内恢复核心服务，同时承诺全额赔付受损资产；BSC、Polygon、TON 等多条公链充提将额外暂停约 12 小时，案件已同步报案并展开链上追踪。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;随后，链上侦探 ZachXBT 警示称，NEAR Intents 的 BSC 热钱包出现多笔异常流出，被盗资金已转入 KuCoin 并跨链至比特币网络，涉案金额超 380 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369942" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>MetaMask质押基础设施遭入侵？Lido、Ethena等均声明未受影响｜实时更新</title>
       <link>https://www.theblockbeats.info/news/63823</link>
@@ -35,18 +42,12 @@
       <pubDate>Wed, 30 Sep 2026 23:55:22 +0000</pubDate>
     </item>
     <item>
-      <title>Lido：stETH持有者无需采取任何行动，受影响ETH预计最长约45天逐步返回协议</title>
-      <link>https://www.theblockbeats.info/flash/369859</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369859</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Lido 在社交媒体上针对 Metamask 此前「将主动撤离部分受影响验证器，以维护非托管质押业务安全」相关声明发布回应称：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;stETH 持有者无需采取任何行动。从 MetaMask Staking 运营的验证者中退出的 ETH，预计将随着相关验证者完成退出、提款和重新进入的周期而逐步返回协议。由于进入队列较长，该过程估计最长约需 45 天。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Lido 协议多元化的节点运营商组合及其他安全系统，包括临时储备基金（超过 6,750 stETH），旨在遏制和缓解对协议正常运营的干扰，并提供其他潜在应对途径。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BlockBeats 此前报道，Metamask 称其正在处理一项影响部分基础设施的安全事件。作为预防措施，正在与客户、合作伙伴以及安全顾问合作，主动撤离那些受到影响的验证器，以维护非托管质押业务的安全。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369859" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Lido 在社交媒体上针对 Metamask 此前「将主动撤离部分受影响验证器，以维护非托管质押业务安全」相关声明发布回应称：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;stETH 持有者无需采取任何行动。从 MetaMask Staking 运营的验证者中退出的 ETH，预计将随着相关验证者完成退出、提款和重新进入的周期而逐步返回协议。由于进入队列较长，该过程估计最长约需 45 天。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Lido 协议多元化的节点运营商组合及其他安全系统，包括临时储备基金（超过 6,750 stETH），旨在遏制和缓解对协议正常运营的干扰，并提供其他潜在应对途径。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BlockBeats 此前报道，Metamask 称其正在处理一项影响部分基础设施的安全事件。作为预防措施，正在与客户、合作伙伴以及安全顾问合作，主动撤离那些受到影响的验证器，以维护非托管质押业务的安全。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369859" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
       <title>Robinhood CEO：计划将股票代币增至数千个，下一步是「私募股票代币」</title>
       <link>https://www.theblockbeats.info/flash/369848</link>
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/369848</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「股票代币的发展计划」问题回应表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「首要的事就是扩大选择范围。我们现在大约有 200 个股票代币，得把它增加到数千个。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，我已经谈论私募股票代币有一段时间了，所以是的，我们已经弄清楚了怎么做。应该期待这会大规模出现。实际上，通过我们在 Robinhood Ventures 的工作，我们正在与这里的私营公司建立很好的关系。通过我们作为承销商的工作，我们在他们思考上市的散户策略时帮助他们。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369848" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「股票代币的发展计划」问题回应表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「首要的事就是扩大选择范围。我们现在大约有 200 个股票代币，得把它增加到数千个。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，我已经谈论私募股票代币有一段时间了，所以是的，我们已经弄清楚了怎么做。应该期待这会大规模出现。实际上，通过我们在 Robinhood Ventures 的工作，我们正在与这里的私营公司建立很好的关系。通过我们作为承销商的工作，我们在他们思考上市的散户策略时帮助他们。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369848" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 00:58:04 +0000</pubDate>
     </item>
     <item>
       <title>Robinhood CEO谈Lighter：提供哪种产品取决于监管，即支持链上也支持链下</title>
@@ -54,6 +55,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/369847</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「如何从战略上考虑 Lighter 等永续合约平台的关系？」问题时表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「Robinhood Chain 上的永续合约最近几天确实很火。我们永续合约交易量已经超过 10 亿美元，此外还有十亿美元级别的指数交易量。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;我们通过 Bitstamp 也有永续合约，那更偏向 CeFi、中心化。随着我们昨晚宣布在美国推出永续合约产品，我们正在接入 Bitstamp 的共享全球流动性池。所以我们支持链上永续合约，也支持链下永续合约。我们首先提供什么产品取决于监管结构和什么被允许。我认为我们也愿意提供多种产品，所以不一定想要只有一种方式。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369847" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「如何从战略上考虑 Lighter 等永续合约平台的关系？」问题时表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「Robinhood Chain 上的永续合约最近几天确实很火。我们永续合约交易量已经超过 10 亿美元，此外还有十亿美元级别的指数交易量。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;我们通过 Bitstamp 也有永续合约，那更偏向 CeFi、中心化。随着我们昨晚宣布在美国推出永续合约产品，我们正在接入 Bitstamp 的共享全球流动性池。所以我们支持链上永续合约，也支持链下永续合约。我们首先提供什么产品取决于监管结构和什么被允许。我认为我们也愿意提供多种产品，所以不一定想要只有一种方式。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369847" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 00:52:48 +0000</pubDate>
     </item>
     <item>
       <title>Lighter没通过Robinhood 进美国，LIT暴跌是不是市场错杀</title>
@@ -80,6 +82,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/369836</guid>
       <description>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Artificial Analysis 完成 Gemini 4 Argon 第三方评测。在最高推理档位下，Argon 的 Intelligence Index 得到 53 分，追平 GPT-6 Astra，比 GPT-6.1 Sol 高 1 分。相比 Google 上一款非 Flash 模型 Gemini 3.1 Pro Preview，分数提高了 23 分。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;按目前 API 首发半价计算，Argon 每个 Intelligence Index 任务平均花费 1.99 美元，只有 GPT-6 Astra 的约 60%。但它并没有少生成内容，平均每个任务输出约 6.2 万 tokens，Astra 只有 2.7 万。优惠结束后，Argon 单任务成本预计升至 3.98 美元，反而约为 Astra 的 1.2 倍。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Argon 一个比较突出的变化是更少瞎猜。在 AA-Omniscience 中，它的幻觉率只有 15%，是 Intelligence Index 得分 45 以上模型中最低的。GPT-6 Astra 和 GPT-6.1 Sol 分别为 51% 和 54%。不过 Argon 的答案准确率只有 50%，低于 Astra 的 63%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369836" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Artificial Analysis 完成 Gemini 4 Argon 第三方评测。在最高推理档位下，Argon 的 Intelligence Index 得到 53 分，追平 GPT-6 Astra，比 GPT-6.1 Sol 高 1 分。相比 Google 上一款非 Flash 模型 Gemini 3.1 Pro Preview，分数提高了 23 分。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;按目前 API 首发半价计算，Argon 每个 Intelligence Index 任务平均花费 1.99 美元，只有 GPT-6 Astra 的约 60%。但它并没有少生成内容，平均每个任务输出约 6.2 万 tokens，Astra 只有 2.7 万。优惠结束后，Argon 单任务成本预计升至 3.98 美元，反而约为 Astra 的 1.2 倍。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Argon 一个比较突出的变化是更少瞎猜。在 AA-Omniscience 中，它的幻觉率只有 15%，是 Intelligence Index 得分 45 以上模型中最低的。GPT-6 Astra 和 GPT-6.1 Sol 分别为 51% 和 54%。不过 Argon 的答案准确率只有 50%，低于 Astra 的 63%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369836" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 00:21:44 +0000</pubDate>
     </item>
     <item>
       <title>特朗普签署「具有道德约束力」的人工智能文件，还改名AI为SI</title>
@@ -118,11 +121,76 @@
       <pubDate>Tue, 29 Sep 2026 07:53:16 +0000</pubDate>
     </item>
     <item>
+      <title>分析：过去一周比特币鲸鱼群体减持约3万枚比特币，以太坊鲸鱼群体则增持6万枚以太坊</title>
+      <link>https://www.theblockbeats.info/flash/369932</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369932</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据分析师 Alicharts 数据，过去一周比特币高位横盘，在此期间鲸鱼群体减持约 3 万枚比特币。价值约合 25.2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;以太坊鲸鱼群体则增持 6 万枚以太坊，价值 1.62 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Alicharts 认为此类分化反映了不同资产的市场情绪差异，或预示加密市场短期以太坊币价表现将强于比特币。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369932" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据分析师 Alicharts 数据，过去一周比特币高位横盘，在此期间鲸鱼群体减持约 3 万枚比特币。价值约合 25.2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;以太坊鲸鱼群体则增持 6 万枚以太坊，价值 1.62 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Alicharts 认为此类分化反映了不同资产的市场情绪差异，或预示加密市场短期以太坊币价表现将强于比特币。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369932" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 11:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abstract链非议频传，创始人账号移除相关标识，核心开发者已沉寂数月并开始转出资金</title>
+      <link>https://www.theblockbeats.info/flash/369930</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369930</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Pudgy Penguins 母公司 Igloo Inc. 旗下消费级以太坊 L2 Abstract 链昨日出现诸多社区非议。一方面，Pudgy Penguins 创始人 Luca Netz 昨日移除了 X 账号 id 中 Abstract 标识；同期，社区爆料称核心开发者 Cygaar 的关联钱包正将资金从 Abstract 链转出，而 Cygaar 自 2026 年 6 月起 X 账号便进入沉默状态。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年 8 月，Abstract 链生态负责人（Mason）和产品负责人（0xBeans）已纷纷离职。Abstract 链官方账号也已进入半休眠状态。由此，社区担忧 Abstract 可能即将关停。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截至发稿，对于社区担忧，暂无官方回应。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369930" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Pudgy Penguins 母公司 Igloo Inc. 旗下消费级以太坊 L2 Abstract 链昨日出现诸多社区非议。一方面，Pudgy Penguins 创始人 Luca Netz 昨日移除了 X 账号 id 中 Abstract 标识；同期，社区爆料称核心开发者 Cygaar 的关联钱包正将资金从 Abstract 链转出，而 Cygaar 自 2026 年 6 月起 X 账号便进入沉默状态。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年 8 月，Abstract 链生态负责人（Mason）和产品负责人（0xBeans）已纷纷离职。Abstract 链官方账号也已进入半休眠状态。由此，社区担忧 Abstract 可能即将关停。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截至发稿，对于社区担忧，暂无官方回应。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369930" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 11:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>特朗普：中期选举后或加强对伊朗轰炸</title>
+      <link>https://www.theblockbeats.info/flash/369928</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369928</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，特朗普对时代周刊表示，中期选举后加大对伊朗的轰炸是可能的，尽管某些类型的弹药供应量略有下降。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;特朗普表示，雷神公司和洛克希德·马丁公司正在扩大爱国者和萨德系统的产能。伊朗战争已使美国花费超过 250 亿美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369928" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，特朗普对时代周刊表示，中期选举后加大对伊朗的轰炸是可能的，尽管某些类型的弹药供应量略有下降。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;特朗普表示，雷神公司和洛克希德·马丁公司正在扩大爱国者和萨德系统的产能。伊朗战争已使美国花费超过 250 亿美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369928" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 11:09:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>花旗：上调比特币与以太坊未来12个月目标价至11.3万美元、3028美元</title>
+      <link>https://www.theblockbeats.info/flash/369920</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369920</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据路透社报道，花旗集团上调了未来 12 个月对比特币和以太坊的价格预测，理由包括加密市场活跃度增强、宏观经济环境具有支持性，以及 ETF 资金流入重新恢复。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;花旗将比特币未来 12 个月目标价从 8.2 万美元上调至 11.3 万美元，将以太坊目标价从 2240 美元上调至 3028 美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;花旗在周三发布的一份报告中表示，预计加密市场资金流入将恢复，但速度将较此前放缓且更加稳定，随着投顾机构和券商逐步提高比特币配置，资金流入有望持续。花旗预计未来 12 个月将有 50 亿美元资金流入加密市场。美国参议院上周未能推进《CLARITY 法案》。该法案旨在为数字资产建立监管框架，其受阻对整个加密行业构成一定挫折。美国财政部近期回购长期国债后，美元走软，重新推动了加密市场的上涨势头。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369920" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据路透社报道，花旗集团上调了未来 12 个月对比特币和以太坊的价格预测，理由包括加密市场活跃度增强、宏观经济环境具有支持性，以及 ETF 资金流入重新恢复。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;花旗将比特币未来 12 个月目标价从 8.2 万美元上调至 11.3 万美元，将以太坊目标价从 2240 美元上调至 3028 美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;花旗在周三发布的一份报告中表示，预计加密市场资金流入将恢复，但速度将较此前放缓且更加稳定，随着投顾机构和券商逐步提高比特币配置，资金流入有望持续。花旗预计未来 12 个月将有 50 亿美元资金流入加密市场。美国参议院上周未能推进《CLARITY 法案》。该法案旨在为数字资产建立监管框架，其受阻对整个加密行业构成一定挫折。美国财政部近期回购长期国债后，美元走软，重新推动了加密市场的上涨势头。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369920" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 09:39:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>美股盘前加密概念股普跌，MARA跌超5%</title>
+      <link>https://www.theblockbeats.info/flash/369910</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369910</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT(bit.com) 行情数据，美股盘前加密货币概念股普跌，其中：CRCL 跌 1.83%，MSTR 跌 1.02%，HOOD 跌 3.2%，BMNR 跌 2.12%，COIN 跌 1.9%，MARA 跌 5.5%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369910" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT(bit.com) 行情数据，美股盘前加密货币概念股普跌，其中：CRCL 跌 1.83%，MSTR 跌 1.02%，HOOD 跌 3.2%，BMNR 跌 2.12%，COIN 跌 1.9%，MARA 跌 5.5%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369910" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 08:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>美股三大股指期货走低，纳指回吐多数涨幅</title>
+      <link>https://www.theblockbeats.info/flash/369898</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369898</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT（bit.com）行情数据，美股三大股指期货走低，纳指期货涨幅收窄至 0.5%，此前一度涨近 1.5%，标普 500 指数期货接近持平，道指期货下跌 0.4%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369898" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT（bit.com）行情数据，美股三大股指期货走低，纳指期货涨幅收窄至 0.5%，此前一度涨近 1.5%，标普 500 指数期货接近持平，道指期货下跌 0.4%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369898" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 07:35:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>以太坊10月历史回报率：2016年起6次收涨4次收跌，回报中位数+0.53%</title>
+      <link>https://www.theblockbeats.info/flash/369893</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369893</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 HTX 行情数据，9 月以太坊延续反弹，展望 10 月，以太坊历史上从 2016 年起的 10 次行情中，6 次收涨 4 次收跌，收益平均值为 +3.37%，回报中位数为+0.53%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;最大涨幅出现在 2021 年 10 月，当时月涨幅达 42.92%；最大跌幅发生在 2016 年 10 月，当时月跌幅达 16.83%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369893" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 HTX 行情数据，9 月以太坊延续反弹，展望 10 月，以太坊历史上从 2016 年起的 10 次行情中，6 次收涨 4 次收跌，收益平均值为 +3.37%，回报中位数为+0.53%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;最大涨幅出现在 2021 年 10 月，当时月涨幅达 42.92%；最大跌幅发生在 2016 年 10 月，当时月跌幅达 16.83%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369893" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 07:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>日韩股市收高，韩股涨近2%</title>
+      <link>https://www.theblockbeats.info/flash/369887</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369887</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Bitget 行情数据，日经 225 指数 10 月 1 日（周四）收盘上涨 2203.00 点，涨幅 3.30%，报 68956.72 点。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;韩国 KOSPI 指数 10 月 1 日（周四）收盘上涨 133.32 点，涨幅 1.95%，报 6971.36 点。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369887" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Bitget 行情数据，日经 225 指数 10 月 1 日（周四）收盘上涨 2203.00 点，涨幅 3.30%，报 68956.72 点。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;韩国 KOSPI 指数 10 月 1 日（周四）收盘上涨 133.32 点，涨幅 1.95%，报 6971.36 点。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369887" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 06:32:35 +0000</pubDate>
+    </item>
+    <item>
       <title>美股夜盘半导体股走高，应用材料、ARM均涨超4%</title>
       <link>https://www.theblockbeats.info/flash/369884</link>
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/369884</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT(bit.com) 行情数据，美股三大指数期货走高，纳指 100 期货涨 1.39%。半导体股夜盘上涨，应用材料、ARM 涨超 4%，英特尔、迈威尔科技、AMD 涨超 3%，闪迪、SK 海力士涨超 2%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369884" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 BIT(bit.com) 行情数据，美股三大指数期货走高，纳指 100 期货涨 1.39%。半导体股夜盘上涨，应用材料、ARM 涨超 4%，英特尔、迈威尔科技、AMD 涨超 3%，闪迪、SK 海力士涨超 2%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369884" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 06:18:59 +0000</pubDate>
     </item>
     <item>
       <title>比特币10月历史回报率：2013年起10次收涨3次收跌，平均回报率18.52%</title>
@@ -130,6 +198,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/369878</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Coinglass 数据，比特币历史上从 2013 年至 2025 年的 13 次「10 月」行情中，有 10 次收涨、3 次收跌。最大涨幅出现在 2013 年 10 月，当时月涨幅达 60.79%；最大跌幅发生在 2014 年 10 月，当时月跌幅达 12.95%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2013 年至今，比特币「10 月」行情平均回报率约为 18.52%，回报率中位数为 12.73%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369878" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Coinglass 数据，比特币历史上从 2013 年至 2025 年的 13 次「10 月」行情中，有 10 次收涨、3 次收跌。最大涨幅出现在 2013 年 10 月，当时月涨幅达 60.79%；最大跌幅发生在 2014 年 10 月，当时月跌幅达 12.95%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2013 年至今，比特币「10 月」行情平均回报率约为 18.52%，回报率中位数为 12.73%。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369878" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 05:23:07 +0000</pubDate>
     </item>
     <item>
       <title>慢雾余弦：MetaMask相关质押节点问题一般不影响ETH本金，但可能影响质押收益</title>
@@ -146,46 +215,6 @@
       <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Farside Investors 监测，昨日比特币 ETF 净流出 1.487 亿美元，终结连续九个交易日净流入。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，以太坊 ETF 昨日净流出 5960 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369868" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 Farside Investors 监测，昨日比特币 ETF 净流出 1.487 亿美元，终结连续九个交易日净流入。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，以太坊 ETF 昨日净流出 5960 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369868" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <pubDate>Thu, 01 Oct 2026 03:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance将下架PROMPT、PUMPBTC等U本位永续合约</title>
-      <link>https://www.theblockbeats.info/flash/369864</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369864</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据官方公告，Binance 合约将于 2026 年 10 月 05 日 16:30（东八区时间）对PROMPTUSDT、PUMPBTCUSDT 和 1000000BOBUSDT U 本位永续合约进行自动清算。自动清算结束后，将下架上述永续合约交易对。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369864" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据官方公告，Binance 合约将于 2026 年 10 月 05 日 16:30（东八区时间）对PROMPTUSDT、PUMPBTCUSDT 和 1000000BOBUSDT U 本位永续合约进行自动清算。自动清算结束后，将下架上述永续合约交易对。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369864" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Thu, 01 Oct 2026 02:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ethena回应「以太坊节点运营商安全事件」：预计不会对Ethena造成影响</title>
-      <link>https://www.theblockbeats.info/flash/369858</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369858</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Ethena 创始人 Guy Young 在社交媒体上发文表示，其已知悉目前「涉及某以太坊节点运营商的安全事件」相关情况。USDe 的支持资产目前不包含对 stETH 或任何其他流动性质押代币的任何直接敞口。预计不会对 Ethena 造成影响。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369858" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Ethena 创始人 Guy Young 在社交媒体上发文表示，其已知悉目前「涉及某以太坊节点运营商的安全事件」相关情况。USDe 的支持资产目前不包含对 stETH 或任何其他流动性质押代币的任何直接敞口。预计不会对 Ethena 造成影响。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369858" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Thu, 01 Oct 2026 02:11:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ether.fi：某以太坊节点运营商发生安全事件，但WEETH没有任何风险暴露</title>
-      <link>https://www.theblockbeats.info/flash/369857</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369857</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，ether.fi 官方在社交媒体上发文表示，其了解到之前发生了一起与以太坊节点操作员相关的安全事件。WEETH 没有任何风险暴露，因此不会受到任何影响。所有资金都是安全的。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BlockBeats 此前报道，Metamask 于今日早些时候发文表示，正在处理一项影响 Metamask 部分基础设施的安全事件。目前尚未发现对 MetaMask 钱包有任何直接的威胁。作为预防措施，Metamask 正在与客户、合作伙伴以及安全顾问合作，主动撤离那些受到影响的验证器，以维护 Metamask 的非托管质押业务的安全。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369857" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，ether.fi 官方在社交媒体上发文表示，其了解到之前发生了一起与以太坊节点操作员相关的安全事件。WEETH 没有任何风险暴露，因此不会受到任何影响。所有资金都是安全的。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BlockBeats 此前报道，Metamask 于今日早些时候发文表示，正在处理一项影响 Metamask 部分基础设施的安全事件。目前尚未发现对 MetaMask 钱包有任何直接的威胁。作为预防措施，Metamask 正在与客户、合作伙伴以及安全顾问合作，主动撤离那些受到影响的验证器，以维护 Metamask 的非托管质押业务的安全。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369857" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Thu, 01 Oct 2026 02:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robinhood CEO：不刻意挑选头部dApp入驻，Robinhood Chain欢迎所有开发者</title>
-      <link>https://www.theblockbeats.info/flash/369849</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369849</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「Robinhood Chain」相关问题发表看法表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「我认为 Robinhood Chain 如此成功的原因之一是我们并没有真正挑选赢家。我们想帮助开发者，但我们真的想保持一个中立平台。当然。并且尽可能降低费用，我们已经做到了。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;链上费用有段时间一度变得很疯狂，很多时候人们说，哦，Robinhood Chain 的收入下降了，但交易量一直非常非常高。那只是因为团队做到了。我们的首要任务是，能不能让所有人都来 Robinhood Chain，并让它尽可能好用。所以我认为我们在开发者活跃度上是第一。是的。我们最近成为了开发者的第一链。而且才两个月。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369849" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，Robinhood 首席执行官 Vlad Tenev 在接受 The Rollup 采访时，针对「Robinhood Chain」相关问题发表看法表示：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;「我认为 Robinhood Chain 如此成功的原因之一是我们并没有真正挑选赢家。我们想帮助开发者，但我们真的想保持一个中立平台。当然。并且尽可能降低费用，我们已经做到了。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;链上费用有段时间一度变得很疯狂，很多时候人们说，哦，Robinhood Chain 的收入下降了，但交易量一直非常非常高。那只是因为团队做到了。我们的首要任务是，能不能让所有人都来 Robinhood Chain，并让它尽可能好用。所以我认为我们在开发者活跃度上是第一。是的。我们最近成为了开发者的第一链。而且才两个月。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369849" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Thu, 01 Oct 2026 01:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hyperliquid开发团队HyperLabs地址申请赎回375万枚HYPE</title>
-      <link>https://www.theblockbeats.info/flash/369840</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/369840</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 EmberCN 监测，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 开发团队 HyperLabs 地址在 8 小时前从质押中申请赎回 375 万枚 HYPE (3.375 亿美元)。这笔 HYPE 将在 7 天后 (10/7 晚上) 提取到账，根据之前他们每月一次的解质押记录，这些 HYPE 会在到账后转给做市商 Flowdesk。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369840" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 1 日，据 EmberCN 监测，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 开发团队 HyperLabs 地址在 8 小时前从质押中申请赎回 375 万枚 HYPE (3.375 亿美元)。这笔 HYPE 将在 7 天后 (10/7 晚上) 提取到账，根据之前他们每月一次的解质押记录，这些 HYPE 会在到账后转给做市商 Flowdesk。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/369840" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Thu, 01 Oct 2026 00:33:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
