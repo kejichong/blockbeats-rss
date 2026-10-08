@@ -5,79 +5,259 @@
     <link>https://www.theblockbeats.info/</link>
     <description>律动BlockBeats是华语区最具影响力的Web3和AI媒体之一。我们通过AI、预测市场和链上资金动向，让新闻更早地出现在BlockBeats上。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:51:45 +0000</lastBuildDate>
     <generator>blockbeats-rss</generator>
     <item>
-      <title>Abstract将于12月15日关闭Abstract Chain，用户需在此之前迁移资产</title>
-      <link>https://www.theblockbeats.info/flash/370492</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370492</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，以太坊 L2 Abstract 发文宣布，经过近三年的运营，其将逐步关闭 Abstract Chain，链上服务计划于 2026 年 12 月 15 日停止。用户可通过 Migration Hub 或原生桥将资产迁移至其他链，使用原生桥预计需要等待约 3 小时。官方提醒，截止日期后仍未迁移的资产将无法访问。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Abstract 表示，过去 18 个月其生态曾实现显著增长，Portal 成为链上发现和分发产品，Abstract Global Wallet（AGW）也成为加密行业采用率较高的智能合约钱包。此外，Abstract 已部署超过 144 个应用，并吸引 Red Bull Racing、Disney 等全球品牌参与，累计为 Abstract 带来超过 40 万名用户。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;不过，Abstract 称，随着行业环境变化，其专注于消费者加密领域的单一公链模式最终被证明难以持续，增长开始受到 DeFi 生态受限、链上流动性不足、机构参与有限以及相较竞争对手预算有限等因素影响。团队过去 12 个月尝试寻找新的产品市场契合点，但最终认为继续投入资源维持一条运营上不可持续且缺乏规模化增长的公链并非最佳选择，因此决定关闭网络。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;官方建议用户尽早完成资产迁移，并警惕冒充官方的虚假迁移网站及私信，仅通过官方渠道核实迁移链接。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370492" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，以太坊 L2 Abstract 发文宣布，经过近三年的运营，其将逐步关闭 Abstract Chain，链上服务计划于 2026 年 12 月 15 日停止。用户可通过 Migration Hub 或原生桥将资产迁移至其他链，使用原生桥预计需要等待约 3 小时。官方提醒，截止日期后仍未迁移的资产将无法访问。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Abstract 表示，过去 18 个月其生态曾实现显著增长，Portal 成为链上发现和分发产品，Abstract Global Wallet（AGW）也成为加密行业采用率较高的智能合约钱包。此外，Abstract 已部署超过 144 个应用，并吸引 Red Bull Racing、Disney 等全球品牌参与，累计为 Abstract 带来超过 40 万名用户。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;不过，Abstract 称，随着行业环境变化，其专注于消费者加密领域的单一公链模式最终被证明难以持续，增长开始受到 DeFi 生态受限、链上流动性不足、机构参与有限以及相较竞争对手预算有限等因素影响。团队过去 12 个月尝试寻找新的产品市场契合点，但最终认为继续投入资源维持一条运营上不可持续且缺乏规模化增长的公链并非最佳选择，因此决定关闭网络。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;官方建议用户尽早完成资产迁移，并警惕冒充官方的虚假迁移网站及私信，仅通过官方渠道核实迁移链接。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370492" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Tue, 06 Oct 2026 23:34:51 +0000</pubDate>
+      <title>国庆假期你可能错过的消息：OKX完成新一轮融资，NEAR Intents被盗后迅速追回资产</title>
+      <link>https://www.theblockbeats.info/news/63840</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/news/63840</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年国庆，适逢加密新周期节点，即比特币距上轮高点已过 364 天，按以往周期规律推算，比特币已正式走出熊市底部，进入牛市上涨周期。然而行情和市场情绪却并未支持这一走势。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;比特币上冲失败，链上 meme 遇冷，美股标普、纳指齐创历史新高&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据HTX行情，假期期间，比特币多次上冲 8 万 7 无果，盘中两次快速回落，现在 8.3 万美元上方重新寻得支撑。同时此前火热的山寨币如 NEAR 和 ZEC 也暂时修正。NEAR 相对强势，经历黑客事件后快速回升，整体近一周维持横盘，周涨幅 0.1%，现报 5.32 美元。ZEC 则相对弱势，近一周累计下跌 7.3%，现报 1325 美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;链上项目市值大幅回落，Robinhood 生态中 PONS 市值回落至 2.63 亿美元（去除销毁代币后市值），AI 则跌至 1 亿美元，较高位下跌近 80%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美股虽在昨日小幅回落，但国庆期间整体保持良好势头，标普和纳指齐创历史新高；芯片指数四连涨。其中科技股与 AI 芯片股为主要上涨品种。其中代表性个股如 AAOI 周涨幅达 14%，MRVL 周涨幅达 6.18%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;行情之外，BlockBeats 总结国庆假期重要行业信息如下：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;OKX 完成新一轮融资，拟推新代币化美股交易平台&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 6 日，加密货币交易平台 OKX 以 250 亿美元估值完成新一轮融资，现有合作伙伴以及对冲基金 Qube Research &amp;amp; Technologies 参与投资。OKX 表示，Circle Internet Group、Ripple 以及渣打银行旗下投资部门 SC Ventures 均参与了本轮融资。OKX 拒绝透露具体融资金额，但表示本轮融资是今年 3 月融资的延伸。当时，纽交所母公司洲际交易平台（ICE）以同样的 250 亿美元估值向 OKX 投资约 2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;而此前一天，OKX 向美国证券交易委员会（SEC）提交文件，拟推出代币化美股交易平台，成为首批利用美国新规开展相关业务的大型加密交易平台之一。运营主体 OKXICE LLC（由 OKX 与纽约证券交易所母公司洲际交易所共同成立）计划首批提供 63 家纽交所上市公司的代币化股票，相关发行人可在交易启动前的 30 天内选择退出。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;NEAR Intents 遭攻击，48 小时内追回被盗资金&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 1 日，NEAR Intents 发布安全通报确认遭遇攻击，初步调查显示漏洞源于 Omni 充提基础设施与合约交互缺陷。48 小时内，NEAR Intents 负责人宣布此前攻击涉及的 380 万美元资金已全额归还，团队停止相关调查。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;CZ 接受《纽约时报》专访&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;国庆期间，《纽约时报》发表 CZ 专访文章，CZ 在采访中表示，个人实际身家约 100 亿至 300 亿美元，远低于福布斯测算的 1000 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，CZ 还透露美伊战争期间，自己身处阿布扎比的萨迪亚特岛，曾亲历伊朗导弹袭击，不过窗户震动后并未过度担忧，继续淡定工作。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;竞逐中期选举，特朗普承诺向美国公民发红包&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 3 日，为顺利拿下中期选举，美国总统特朗普再次承诺，如果共和党在中期选举中赢得众议院和参议院，将向每名美国成年公民发放 5000 美元「分红」。按约 2.4 亿名美国成年公民计算，该计划预计将耗资约 1.2 万亿美元，使其成为美国自新冠疫情以来规模最大的经济刺激计划之一。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;CFTC 发新规，填补加密监管空白&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国商品期货交易委员会（CFTC）10 月 5 日提议两项新规则，拟依据其监管杠杆和保证金交易的权力，建立美国加密货币监管框架，以填补国会未能完成加密立法所留下的监管不确定性。根据拟议规则，涉及杠杆、保证金或融资的加密活动将纳入 CFTC 监管。这意味着，如果交易者使用借入资金放大头寸，就将受到该机构监管。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;CFTC 主席 Mike Selig 在福特汉姆法学院年度区块链监管研讨会的准备讲话中表示：「这些规则将编纂一条路径，使加密资产交易平台能够在 CFTC 统一的全国监管下运作，所依据的法定权力正是上一届政府用来通过执法进行监管的同一批权力。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/58433" target="_blank"&gt;点击了解律动BlockBeats 在招岗位&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欢迎加入律动 BlockBeats 官方社群：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 订阅群：&lt;a href="https://t.me/theblockbeats" target="_blank"&gt;https://t.me/theblockbeats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 交流群：&lt;a href="https://t.me/BlockBeats_App" target="_blank"&gt;https://t.me/BlockBeats_App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter 官方账号：&lt;a href="https://twitter.com/BlockBeatsAsia" target="_blank"&gt;https://twitter.com/BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/63840" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;今年国庆，适逢加密新周期节点，即比特币距上轮高点已过 364 天，按以往周期规律推算，比特币已正式走出熊市底部，进入牛市上涨周期。然而行情和市场情绪却并未支持这一走势。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;比特币上冲失败，链上 meme 遇冷，美股标普、纳指齐创历史新高&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据HTX行情，假期期间，比特币多次上冲 8 万 7 无果，盘中两次快速回落，现在 8.3 万美元上方重新寻得支撑。同时此前火热的山寨币如 NEAR 和 ZEC 也暂时修正。NEAR 相对强势，经历黑客事件后快速回升，整体近一周维持横盘，周涨幅 0.1%，现报 5.32 美元。ZEC 则相对弱势，近一周累计下跌 7.3%，现报 1325 美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;链上项目市值大幅回落，Robinhood 生态中 PONS 市值回落至 2.63 亿美元（去除销毁代币后市值），AI 则跌至 1 亿美元，较高位下跌近 80%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美股虽在昨日小幅回落，但国庆期间整体保持良好势头，标普和纳指齐创历史新高；芯片指数四连涨。其中科技股与 AI 芯片股为主要上涨品种。其中代表性个股如 AAOI 周涨幅达 14%，MRVL 周涨幅达 6.18%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;行情之外，BlockBeats 总结国庆假期重要行业信息如下：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;OKX 完成新一轮融资，拟推新代币化美股交易平台&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 6 日，加密货币交易平台 OKX 以 250 亿美元估值完成新一轮融资，现有合作伙伴以及对冲基金 Qube Research &amp;amp; Technologies 参与投资。OKX 表示，Circle Internet Group、Ripple 以及渣打银行旗下投资部门 SC Ventures 均参与了本轮融资。OKX 拒绝透露具体融资金额，但表示本轮融资是今年 3 月融资的延伸。当时，纽交所母公司洲际交易平台（ICE）以同样的 250 亿美元估值向 OKX 投资约 2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;而此前一天，OKX 向美国证券交易委员会（SEC）提交文件，拟推出代币化美股交易平台，成为首批利用美国新规开展相关业务的大型加密交易平台之一。运营主体 OKXICE LLC（由 OKX 与纽约证券交易所母公司洲际交易所共同成立）计划首批提供 63 家纽交所上市公司的代币化股票，相关发行人可在交易启动前的 30 天内选择退出。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;NEAR Intents 遭攻击，48 小时内追回被盗资金&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 1 日，NEAR Intents 发布安全通报确认遭遇攻击，初步调查显示漏洞源于 Omni 充提基础设施与合约交互缺陷。48 小时内，NEAR Intents 负责人宣布此前攻击涉及的 380 万美元资金已全额归还，团队停止相关调查。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;CZ 接受《纽约时报》专访&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;国庆期间，《纽约时报》发表 CZ 专访文章，CZ 在采访中表示，个人实际身家约 100 亿至 300 亿美元，远低于福布斯测算的 1000 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，CZ 还透露美伊战争期间，自己身处阿布扎比的萨迪亚特岛，曾亲历伊朗导弹袭击，不过窗户震动后并未过度担忧，继续淡定工作。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;竞逐中期选举，特朗普承诺向美国公民发红包&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;10 月 3 日，为顺利拿下中期选举，美国总统特朗普再次承诺，如果共和党在中期选举中赢得众议院和参议院，将向每名美国成年公民发放 5000 美元「分红」。按约 2.4 亿名美国成年公民计算，该计划预计将耗资约 1.2 万亿美元，使其成为美国自新冠疫情以来规模最大的经济刺激计划之一。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h1&gt;CFTC 发新规，填补加密监管空白&lt;/h1&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国商品期货交易委员会（CFTC）10 月 5 日提议两项新规则，拟依据其监管杠杆和保证金交易的权力，建立美国加密货币监管框架，以填补国会未能完成加密立法所留下的监管不确定性。根据拟议规则，涉及杠杆、保证金或融资的加密活动将纳入 CFTC 监管。这意味着，如果交易者使用借入资金放大头寸，就将受到该机构监管。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;CFTC 主席 Mike Selig 在福特汉姆法学院年度区块链监管研讨会的准备讲话中表示：「这些规则将编纂一条路径，使加密资产交易平台能够在 CFTC 统一的全国监管下运作，所依据的法定权力正是上一届政府用来通过执法进行监管的同一批权力。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/58433" target="_blank"&gt;点击了解律动BlockBeats 在招岗位&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欢迎加入律动 BlockBeats 官方社群：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 订阅群：&lt;a href="https://t.me/theblockbeats" target="_blank"&gt;https://t.me/theblockbeats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 交流群：&lt;a href="https://t.me/BlockBeats_App" target="_blank"&gt;https://t.me/BlockBeats_App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter 官方账号：&lt;a href="https://twitter.com/BlockBeatsAsia" target="_blank"&gt;https://twitter.com/BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/63840" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>FT：Hyperliquid已在新加坡设立总部，MAS称其不在监管管辖范围</title>
-      <link>https://www.theblockbeats.info/flash/370497</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370497</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据英国《金融时报》报道，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; Labs 已确认其总部位于新加坡，公司文件显示新加坡为其注册总部，近期招聘信息也显示其在当地设有办公室。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;不过，新加坡金融管理局（MAS）此前并未认为 Hyperliquid 属于其监管管辖范围。知情人士称，MAS 认为 Hyperliquid 具有「去中心化」性质，因此不认为该公司属于新加坡监管范围。MAS 同时表示，其「不清楚 Hyperliquid 受到任何主要司法管辖区监管」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hyperliquid 以高杠杆永续合约交易闻名，其相关产品允许用户交易加密货币、石油及股票等资产的价格波动。Hyperliquid Labs 则表示，Hyperliquid 目前未受监管，也从未声称获得 MAS 许可或授权。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370497" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据英国《金融时报》报道，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; Labs 已确认其总部位于新加坡，公司文件显示新加坡为其注册总部，近期招聘信息也显示其在当地设有办公室。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;不过，新加坡金融管理局（MAS）此前并未认为 Hyperliquid 属于其监管管辖范围。知情人士称，MAS 认为 Hyperliquid 具有「去中心化」性质，因此不认为该公司属于新加坡监管范围。MAS 同时表示，其「不清楚 Hyperliquid 受到任何主要司法管辖区监管」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hyperliquid 以高杠杆永续合约交易闻名，其相关产品允许用户交易加密货币、石油及股票等资产的价格波动。Hyperliquid Labs 则表示，Hyperliquid 目前未受监管，也从未声称获得 MAS 许可或授权。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370497" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Tue, 06 Oct 2026 23:55:31 +0000</pubDate>
+      <title>Arthur Hayes：AI热潮正「浪费」数万亿美元并可能引发崩盘及救助，比特币或受益于过剩流动性</title>
+      <link>https://www.theblockbeats.info/flash/370622</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370622</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，BitMEX 联合创始人 Arthur Hayes 在新加坡 Gamma Prime 投资大会上表示，人类正在 AI 数据中心建设上「浪费数万亿美元」。他押注本轮 AI 热潮最终将经历过度投资、崩盘及救助，而救助释放的过剩流动性可能推动比特币和其他加密资产上涨。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hayes 认为，科技公司竞相建设数据中心、争夺算力，最终将导致产能过剩，使计算能力变得「极其廉价且充裕」。他表示：「如果研究金融历史以及每一次重大技术推广，就会发现它们总是被过度建设，总会出现崩盘，也总会出现救助。」他以 2008 年金融危机及过去二十年的其他事件为例，认为提前为救助政策布局的投资者可能受益，但需要保持耐心。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他指出，SpaceX、OpenAI 及 Anthropic 等算力需求方尚未盈利。当目前在建的数据中心完工，基础设施提供商将要求这些客户支付此前承诺购买的算力费用。他预计，这一考验可能出现在 2027 年末或 2028 年，即大量新增数据中心产能交付之时。另一种看涨情景是，AI 在未来 12 个月内变得足够有用，带动需求增长，使 AI 企业实现盈利。Hayes 同时承认，存储芯片制造商及英伟达等 AI 供应商已经盈利，投资者需要判断其前瞻盈利所对应的估值倍数是否合理。他表示，自己并不喜欢押注价格下跌或做空 AI 公司，认为这「并不是一个特别好的投资机会」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;算力变得廉价且充裕，也是其新项目 Flop 的基础。该 AI 智能体支付项目预计于 2027 年第一季度推出，计划建立算力现货市场，以 Flop 代币奖励提供 GPU 及执行 AI 推理的参与者。Hayes 认为，更便宜的算力将推动智能体普及：「如果智能体可以将一种货币直接兑换成它们所消耗的算力，它们就会使用这种货币。这就是我们的押注。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370622" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，BitMEX 联合创始人 Arthur Hayes 在新加坡 Gamma Prime 投资大会上表示，人类正在 AI 数据中心建设上「浪费数万亿美元」。他押注本轮 AI 热潮最终将经历过度投资、崩盘及救助，而救助释放的过剩流动性可能推动比特币和其他加密资产上涨。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hayes 认为，科技公司竞相建设数据中心、争夺算力，最终将导致产能过剩，使计算能力变得「极其廉价且充裕」。他表示：「如果研究金融历史以及每一次重大技术推广，就会发现它们总是被过度建设，总会出现崩盘，也总会出现救助。」他以 2008 年金融危机及过去二十年的其他事件为例，认为提前为救助政策布局的投资者可能受益，但需要保持耐心。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他指出，SpaceX、OpenAI 及 Anthropic 等算力需求方尚未盈利。当目前在建的数据中心完工，基础设施提供商将要求这些客户支付此前承诺购买的算力费用。他预计，这一考验可能出现在 2027 年末或 2028 年，即大量新增数据中心产能交付之时。另一种看涨情景是，AI 在未来 12 个月内变得足够有用，带动需求增长，使 AI 企业实现盈利。Hayes 同时承认，存储芯片制造商及英伟达等 AI 供应商已经盈利，投资者需要判断其前瞻盈利所对应的估值倍数是否合理。他表示，自己并不喜欢押注价格下跌或做空 AI 公司，认为这「并不是一个特别好的投资机会」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;算力变得廉价且充裕，也是其新项目 Flop 的基础。该 AI 智能体支付项目预计于 2027 年第一季度推出，计划建立算力现货市场，以 Flop 代币奖励提供 GPU 及执行 AI 推理的参与者。Hayes 认为，更便宜的算力将推动智能体普及：「如果智能体可以将一种货币直接兑换成它们所消耗的算力，它们就会使用这种货币。这就是我们的押注。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370622" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Abstract运营两年亏损数千万美元，创始人称未来聚焦Pudgy Penguins和PENGU</title>
-      <link>https://www.theblockbeats.info/flash/370519</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370519</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，Pudgy Penguins CEO Luca Netz 发文称，Abstract 正在逐步关闭，母公司 Igloo Inc. 即日起将把全部精力转向 Pudgy Penguins、Pudgy NFTs 及 PENGU 的发展。他表示，Igloo 过去 18 个月持续为 Abstract 提供资金支持，两年来累计亏损数千万美元，但项目仍未找到产品市场契合点（PMF）。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Netz 称，Abstract 过去一度实现超过 3 亿笔链上交易，并推出 Portal 和 AGW、吸引多个全球品牌入驻并建立活跃的链上生态，但 DeFi 生态不足、流动性有限、机构参与度较低以及成本过高等问题持续制约增长。叠加市场对相关产品的需求下降，公司最终无法继续从 Pudgy Penguins 业务中抽调资金支持 Abstract。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Netz 表示，即使公司已亏损八位数美元，Igloo 仍选择不通过发行代币或 ICO 为 Abstract 融资，因为没有足够信心证明代币存在持续需求。他同时向 Abstract 社区致谢，并称随着项目收尾，公司将全力推动 Pudgy Penguins 成为全球性的文化现象。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370519" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，Pudgy Penguins CEO Luca Netz 发文称，Abstract 正在逐步关闭，母公司 Igloo Inc. 即日起将把全部精力转向 Pudgy Penguins、Pudgy NFTs 及 PENGU 的发展。他表示，Igloo 过去 18 个月持续为 Abstract 提供资金支持，两年来累计亏损数千万美元，但项目仍未找到产品市场契合点（PMF）。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Netz 称，Abstract 过去一度实现超过 3 亿笔链上交易，并推出 Portal 和 AGW、吸引多个全球品牌入驻并建立活跃的链上生态，但 DeFi 生态不足、流动性有限、机构参与度较低以及成本过高等问题持续制约增长。叠加市场对相关产品的需求下降，公司最终无法继续从 Pudgy Penguins 业务中抽调资金支持 Abstract。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Netz 表示，即使公司已亏损八位数美元，Igloo 仍选择不通过发行代币或 ICO 为 Abstract 融资，因为没有足够信心证明代币存在持续需求。他同时向 Abstract 社区致谢，并称随着项目收尾，公司将全力推动 Pudgy Penguins 成为全球性的文化现象。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370519" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 02:08:03 +0000</pubDate>
+      <title>利率上行重燃通胀担忧，美股回落，比特币继续下探寻求支撑</title>
+      <link>https://www.theblockbeats.info/flash/370662</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370662</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，昨夜今晨，美国消费者一年期通胀预期升至 3.9%，创三年多新高，显示劳动力市场信心改善。另一方面，美联储 9 约会议纪要公布，全体 19 名决策者支持 9 月加息但理由不一，多数与会者认为，年底前再次上调利率可能是合适的。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另一方面，据 Axios 报道，五角大楼已经要求美国中央司令部（CENTCOM）完成恢复对伊朗重大作战行动的准备，但特朗普尚未作出最终决定，也没有确定具体打击日期。美国和以色列官员称，如果行动重启，时间可能落在（11 月 3 日）美国中期选举之前，甚至早于（10 月 27 日）以色列大选。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;由此，三大美股指回落，纳指终结五连涨、和标普跌离纪录高位，道指盘中曾跌超 1%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;明星股方面，据 BIT(bit.com) 行情数据，芯片指数和银行股指均收跌超 1%，但美光逆势上涨 4.06%；Meta 跌超 2%，网络安全股 CrowdStrike 跌近 5%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，市场关注多国释放油储行动，据 Bitget 行情，原油盘中转跌，布油盘中涨 2% 后一度转跌近 1%，美油收创一个多月新低。黄金回落、创两月新低，盘中跌超 2%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;加密市场方面，据 HTX 行情，比特币昨夜跌破 8 万 3，随后寻得短暂支撑，现报 83234.80 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370662" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，昨夜今晨，美国消费者一年期通胀预期升至 3.9%，创三年多新高，显示劳动力市场信心改善。另一方面，美联储 9 约会议纪要公布，全体 19 名决策者支持 9 月加息但理由不一，多数与会者认为，年底前再次上调利率可能是合适的。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;另一方面，据 Axios 报道，五角大楼已经要求美国中央司令部（CENTCOM）完成恢复对伊朗重大作战行动的准备，但特朗普尚未作出最终决定，也没有确定具体打击日期。美国和以色列官员称，如果行动重启，时间可能落在（11 月 3 日）美国中期选举之前，甚至早于（10 月 27 日）以色列大选。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;由此，三大美股指回落，纳指终结五连涨、和标普跌离纪录高位，道指盘中曾跌超 1%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;明星股方面，据 BIT(bit.com) 行情数据，芯片指数和银行股指均收跌超 1%，但美光逆势上涨 4.06%；Meta 跌超 2%，网络安全股 CrowdStrike 跌近 5%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此外，市场关注多国释放油储行动，据 Bitget 行情，原油盘中转跌，布油盘中涨 2% 后一度转跌近 1%，美油收创一个多月新低。黄金回落、创两月新低，盘中跌超 2%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;加密市场方面，据 HTX 行情，比特币昨夜跌破 8 万 3，随后寻得短暂支撑，现报 83234.80 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370662" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 08 Oct 2026 00:05:51 +0000</pubDate>
     </item>
     <item>
-      <title>加密市场跳水，多单最大单笔爆仓价值2664万美元，全网多单爆仓近4亿美元</title>
-      <link>https://www.theblockbeats.info/flash/370523</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370523</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，今晨加密市场快速跳水，比特币跌破 8 万 4，现报 83804.60 美元，24 小时跌幅达 2.13%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;受此影响，据 Coinglass 数据，全网近 1 小时爆仓 4.1 亿美元，其中多单爆仓 3.98 亿美元。其中最大单笔多单爆仓价值 2664 万美元，为以太坊多单，另有一笔价值 1174 万美元比特币多单爆仓，两笔爆仓均发生在 Binance 平台。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370523" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，今晨加密市场快速跳水，比特币跌破 8 万 4，现报 83804.60 美元，24 小时跌幅达 2.13%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;受此影响，据 Coinglass 数据，全网近 1 小时爆仓 4.1 亿美元，其中多单爆仓 3.98 亿美元。其中最大单笔多单爆仓价值 2664 万美元，为以太坊多单，另有一笔价值 1174 万美元比特币多单爆仓，两笔爆仓均发生在 Binance 平台。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370523" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 02:31:19 +0000</pubDate>
+      <title>美联储纪要释放鹰派信号：多数预计年内再次加息，但10月并无明显紧迫性</title>
+      <link>https://www.theblockbeats.info/flash/370660</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370660</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，美联储 9 月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。纪要显示，「&lt;strong&gt;多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的。&lt;/strong&gt;」但与会者同时强调，他们对待每一次会议都持开放态度，未来会议的政策决定将取决于届时获得的最新信息。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;有「新美联储通讯社」之称的记者 Nick Timiraos 强调美联储会议纪要内容：「关于当前会议之后的货币政策展望，多数与会者认为，在今年年底前再次上调联邦基金利率目标区间可能是合适的。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截止发稿，据 CME 数据，&lt;strong&gt;投资者目前对美联储 10 月 27 日至 28 日会议加息 25 个基点的概率定价不足 20%&lt;/strong&gt;，较 9 月决议发布后数日的约 70% 大幅下降。&lt;strong&gt;10 月 14 日公布的美国消费者价格指数（CPI）可能成为影响这一预期的重要数据&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370660" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，美联储 9 月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。纪要显示，「&lt;strong&gt;多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的。&lt;/strong&gt;」但与会者同时强调，他们对待每一次会议都持开放态度，未来会议的政策决定将取决于届时获得的最新信息。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;有「新美联储通讯社」之称的记者 Nick Timiraos 强调美联储会议纪要内容：「关于当前会议之后的货币政策展望，多数与会者认为，在今年年底前再次上调联邦基金利率目标区间可能是合适的。」&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截止发稿，据 CME 数据，&lt;strong&gt;投资者目前对美联储 10 月 27 日至 28 日会议加息 25 个基点的概率定价不足 20%&lt;/strong&gt;，较 9 月决议发布后数日的约 70% 大幅下降。&lt;strong&gt;10 月 14 日公布的美国消费者价格指数（CPI）可能成为影响这一预期的重要数据&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370660" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 23:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>易理华：山寨币全面回调，牛市中正常回调无需过度担忧</title>
-      <link>https://www.theblockbeats.info/flash/370520</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370520</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，Liquid Capital 创始人易理华发文表示，近期多次提示市场可能出现回调，目前比特币尚未跌破关键支撑位，但山寨币已出现全面回调。他指出，此前曾在一个月前判断比特币涨至 8.6 万美元附近后可能面临回调。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;易理华表示，牛市趋势中大部分时间同样会处于震荡阶段，只有少部分时间出现快速上涨和正常回调，不会存在持续上涨的牛市行情。他认为，即使此次回调幅度较大，也属于牛市趋势中的正常现象，并建议投资者无需试图时刻交易或抓住每一次机会。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370520" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，Liquid Capital 创始人易理华发文表示，近期多次提示市场可能出现回调，目前比特币尚未跌破关键支撑位，但山寨币已出现全面回调。他指出，此前曾在一个月前判断比特币涨至 8.6 万美元附近后可能面临回调。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;易理华表示，牛市趋势中大部分时间同样会处于震荡阶段，只有少部分时间出现快速上涨和正常回调，不会存在持续上涨的牛市行情。他认为，即使此次回调幅度较大，也属于牛市趋势中的正常现象，并建议投资者无需试图时刻交易或抓住每一次机会。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370520" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 02:16:01 +0000</pubDate>
+      <title>美众议院金融服务委员会主席：SEC及CFTC加密监管行动仍有不足，希望中期选举后通过CLARITY法案</title>
+      <link>https://www.theblockbeats.info/flash/370654</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370654</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，美国众议院金融服务委员会主席 French Hill 表示，SEC 和 CFTC 虽已采取措施推进加密监管，但这些行动仍不及国会立法所能提供的长期稳定性。参议院上月未能通过《数字资产市场清晰法案》（CLARITY）后，两家监管机构提出了相关规则制定计划，Hill 认为仍需要永久性的法律变更，以确保美国在数字资产及区块链技术领域保持领先。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hill 在 Fox Business 采访中表示，仍希望国会能在中期选举后的「跛脚鸭」会期通过 CLARITY 法案。11 月选举结束至 2027 年新一届国会就任之间，参议院仅有 22 个开会日。选举结果可能影响议员对法案的投票立场。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;两家监管机构目前合计有 7 个委员席位空缺。Hester Peirce 上周宣布辞职后，SEC 仅剩主席 Paul Atkins 和委员 Mark Uyeda；CFTC 主席 Michael Selig 则是该机构唯一在任委员。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370654" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，美国众议院金融服务委员会主席 French Hill 表示，SEC 和 CFTC 虽已采取措施推进加密监管，但这些行动仍不及国会立法所能提供的长期稳定性。参议院上月未能通过《数字资产市场清晰法案》（CLARITY）后，两家监管机构提出了相关规则制定计划，Hill 认为仍需要永久性的法律变更，以确保美国在数字资产及区块链技术领域保持领先。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hill 在 Fox Business 采访中表示，仍希望国会能在中期选举后的「跛脚鸭」会期通过 CLARITY 法案。11 月选举结束至 2027 年新一届国会就任之间，参议院仅有 22 个开会日。选举结果可能影响议员对法案的投票立场。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;两家监管机构目前合计有 7 个委员席位空缺。Hester Peirce 上周宣布辞职后，SEC 仅剩主席 Paul Atkins 和委员 Mark Uyeda；CFTC 主席 Michael Selig 则是该机构唯一在任委员。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370654" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 16:14:31 +0000</pubDate>
     </item>
     <item>
-      <title>AI巨头撑起美股韧性，标普500首次收于7800点上方创历史新高</title>
-      <link>https://www.theblockbeats.info/flash/370502</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370502</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据 BIT（bit.com）行情数据，标普 500 指数周二盘中触及 7844.52 点，刷新历史盘中高点，并首次收于 7800 点上方。与此同时，10 年期美债收益率突破 5.3%，创 2002 年以来新高，油价也重新站上 100 美元/桶，美联储此前已开启加息周期，美股仍在多重宏观压力下刷新纪录。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;市场上涨主要由大型科技股和 AI 板块推动。英伟达、Alphabet、亚马逊、苹果、Meta、微软和特斯拉「七巨头」合计占标普 500 指数市值超过 34%，总市值周二升至约 25 万亿美元历史新高。英伟达过去一周上涨 4.5%，Meta 自 8 月 13 日以来上涨 24%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;与此同时，市场广度持续收窄。周二标普 500 指数中仅不到一半成分股收于 200 日移动平均线上方，小盘股及标普 500 等权重指数表现均落后于大盘。分析人士指出，在利率和通胀压力持续的情况下，AI 巨头强劲盈利、庞大资本开支及较强资产负债表正成为支撑美股的关键，但市场对少数大型科技股的依赖也在加剧。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370502" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据 BIT（bit.com）行情数据，标普 500 指数周二盘中触及 7844.52 点，刷新历史盘中高点，并首次收于 7800 点上方。与此同时，10 年期美债收益率突破 5.3%，创 2002 年以来新高，油价也重新站上 100 美元/桶，美联储此前已开启加息周期，美股仍在多重宏观压力下刷新纪录。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;市场上涨主要由大型科技股和 AI 板块推动。英伟达、Alphabet、亚马逊、苹果、Meta、微软和特斯拉「七巨头」合计占标普 500 指数市值超过 34%，总市值周二升至约 25 万亿美元历史新高。英伟达过去一周上涨 4.5%，Meta 自 8 月 13 日以来上涨 24%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;与此同时，市场广度持续收窄。周二标普 500 指数中仅不到一半成分股收于 200 日移动平均线上方，小盘股及标普 500 等权重指数表现均落后于大盘。分析人士指出，在利率和通胀压力持续的情况下，AI 巨头强劲盈利、庞大资本开支及较强资产负债表正成为支撑美股的关键，但市场对少数大型科技股的依赖也在加剧。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370502" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 00:21:45 +0000</pubDate>
+      <title>分析：美国中期选举后标普500、比特币12个月内上涨概率达100%</title>
+      <link>https://www.theblockbeats.info/flash/370423</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370423</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 6 日，据 XWIN Japan 统计，自 1950 年以来，美国 19 次中期选举后的 12 个月里，标普 500 指数全部上涨，平均涨幅达 15.4%。总统任期第三年历来也是表现最强的一年。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;加密市场上，比特币在 2014 年、2018 年和 2022 年中期选举后的 12 个月里分别上涨了 24.5%、44.9% 和 92.3%。然而，2018 年大选后的第一个月，比特币曾下跌 45.5%。需要指出的是，加密市场目前仅有三次观察样本，不足以构成可靠的规律。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;分析认为，中期选举落定之后，应关注收益率是否企稳、机构买盘是否持续、监管是否取得进展。政治层面的利好或有助于比特币，但持续上涨仍需要有利的市况配合。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370423" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 6 日，据 XWIN Japan 统计，自 1950 年以来，美国 19 次中期选举后的 12 个月里，标普 500 指数全部上涨，平均涨幅达 15.4%。总统任期第三年历来也是表现最强的一年。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;加密市场上，比特币在 2014 年、2018 年和 2022 年中期选举后的 12 个月里分别上涨了 24.5%、44.9% 和 92.3%。然而，2018 年大选后的第一个月，比特币曾下跌 45.5%。需要指出的是，加密市场目前仅有三次观察样本，不足以构成可靠的规律。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;分析认为，中期选举落定之后，应关注收益率是否企稳、机构买盘是否持续、监管是否取得进展。政治层面的利好或有助于比特币，但持续上涨仍需要有利的市况配合。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370423" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 06 Oct 2026 09:47:48 +0000</pubDate>
     </item>
     <item>
-      <title>OKX以250亿美元估值完成融资，渣打银行与Circle等参投</title>
-      <link>https://www.theblockbeats.info/flash/370439</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370439</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 6 日，据彭博社报道，加密货币交易平台 OKX 以 250 亿美元估值完成新一轮融资，现有合作伙伴以及对冲基金 Qube Research &amp;amp; Technologies 参与投资。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;OKX 表示，Circle Internet Group、Ripple 以及渣打银行旗下投资部门 SC Ventures 均参与了本轮融资。OKX 拒绝透露具体融资金额，但表示本轮融资是今年 3 月融资的延伸。当时，纽交所母公司洲际交易平台（ICE）以同样的 250 亿美元估值向 OKX 投资约 2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370439" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 6 日，据彭博社报道，加密货币交易平台 OKX 以 250 亿美元估值完成新一轮融资，现有合作伙伴以及对冲基金 Qube Research &amp;amp; Technologies 参与投资。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;OKX 表示，Circle Internet Group、Ripple 以及渣打银行旗下投资部门 SC Ventures 均参与了本轮融资。OKX 拒绝透露具体融资金额，但表示本轮融资是今年 3 月融资的延伸。当时，纽交所母公司洲际交易平台（ICE）以同样的 250 亿美元估值向 OKX 投资约 2 亿美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370439" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Tue, 06 Oct 2026 12:01:15 +0000</pubDate>
+      <title>开源Hermes Agent下载2270万次，Nous Research融资9000万美元做企业生意</title>
+      <link>https://www.theblockbeats.info/flash/370627</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370627</guid>
+      <description>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Nous Research 完成 9000 万美元 B 轮融资，估值达到 15 亿美元。Robot Ventures 领投，英伟达、微软 M12、三星、USV 等参投，公司累计融资约 1.58 亿美元。新钱主要用来把今年在开发者圈爆红的 Hermes 推进企业市场。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hermes 从 2 月发布至今已经下载 2270 万次。OpenRouter 数据显示，它的使用量已经超过 OpenClaw。Nous 在 9 月中旬的年化收入约为 3600 万美元，公司预计今年晚些时候超过 1 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Nous 给企业卖的也不是另一套封闭 Agent。Hermes 本身继续免费、MIT 开源，企业可以自己选模型，也可以部署在自己的云或本地服务器。Nous 在上面补企业需要的东西，包括 SSO、员工权限、工作区隔离、审计、成本管理，以及 Slack 和 Teams 接入。首批企业部署已经开始。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;它的商业模式也已经比较清楚：Hermes 免费开源，Nous 收模型、工具、云托管和企业管理的钱。 一个原本面向开发者的开源 Agent，已经做到 3600 万美元年化收入，现在要继续验证这套模式能不能在企业里放大。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370627" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Nous Research 完成 9000 万美元 B 轮融资，估值达到 15 亿美元。Robot Ventures 领投，英伟达、微软 M12、三星、USV 等参投，公司累计融资约 1.58 亿美元。新钱主要用来把今年在开发者圈爆红的 Hermes 推进企业市场。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hermes 从 2 月发布至今已经下载 2270 万次。OpenRouter 数据显示，它的使用量已经超过 OpenClaw。Nous 在 9 月中旬的年化收入约为 3600 万美元，公司预计今年晚些时候超过 1 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Nous 给企业卖的也不是另一套封闭 Agent。Hermes 本身继续免费、MIT 开源，企业可以自己选模型，也可以部署在自己的云或本地服务器。Nous 在上面补企业需要的东西，包括 SSO、员工权限、工作区隔离、审计、成本管理，以及 Slack 和 Teams 接入。首批企业部署已经开始。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;它的商业模式也已经比较清楚：Hermes 免费开源，Nous 收模型、工具、云托管和企业管理的钱。 一个原本面向开发者的开源 Agent，已经做到 3600 万美元年化收入，现在要继续验证这套模式能不能在企业里放大。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370627" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 13:02:54 +0000</pubDate>
     </item>
     <item>
-      <title>《纽约时报》：Binance于2025年初获MGX参投时估值达750亿美元</title>
-      <link>https://www.theblockbeats.info/flash/370231</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370231</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 4 日，据《纽约时报》报道，一名知情人士透露，阿布扎比的投资集团 MGX 于 2025 年初同意向 Binance 投资 20 亿美元，对 Binance 的估值达到 750 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;MGX 认为，Binance 是连接加密货币与人工智能的理想桥梁——一种高科技的资金转移服务，未来可能使自动化的人工智能「代理」能够代表真实用户进行支付。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370231" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 4 日，据《纽约时报》报道，一名知情人士透露，阿布扎比的投资集团 MGX 于 2025 年初同意向 Binance 投资 20 亿美元，对 Binance 的估值达到 750 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;MGX 认为，Binance 是连接加密货币与人工智能的理想桥梁——一种高科技的资金转移服务，未来可能使自动化的人工智能「代理」能够代表真实用户进行支付。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370231" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Sun, 04 Oct 2026 12:24:00 +0000</pubDate>
+      <title>740M跑手机，谷歌EmbeddingGemma 2一次搜遍文字、图片和音视频</title>
+      <link>https://www.theblockbeats.info/flash/370526</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370526</guid>
+      <description>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Google DeepMind 开源 EmbeddingGemma 2。模型只有 7.4 亿参数，可以直接处理文本、代码、图片、视频和音频，并把它们放进同一个向量空间做搜索和 RAG。上一代 EmbeddingGemma 只能处理文本。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;模型也可以只加载需要的部分。只处理文本和代码时有 2.7 亿参数，加上视觉后为 4.4 亿，全部加载则是 7.4 亿。Google 在 Pixel 11 Pro 上测试，量化后文本版本最低占用约 191MB 活跃内存，完整版本约 567MB。上下文从上一代 2K 提高到 8K，一次最多可以处理约 5.5 分钟音频、29 张图片或 58 帧视频。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;代码检索提升最明显。MTEB Code 得分从上一代的 68.76 提高到 78.68，多语言文本则基本持平，从 61.15 升到 61.36。模型还支持把默认 768 维向量压到 512、256 或 128 维，最低可以把向量存储空间缩到六分之一。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;许可证也放宽了。上一代 EmbeddingGemma 使用 Google 自己的 Gemma 条款，EmbeddingGemma 2 改成 Apache 2.0。Google 今年发布的 Gemma 4 同样采用 Apache 2.0，最近几款开放模型对商业使用和二次开发明显更友好。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370526" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，Google DeepMind 开源 EmbeddingGemma 2。模型只有 7.4 亿参数，可以直接处理文本、代码、图片、视频和音频，并把它们放进同一个向量空间做搜索和 RAG。上一代 EmbeddingGemma 只能处理文本。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;模型也可以只加载需要的部分。只处理文本和代码时有 2.7 亿参数，加上视觉后为 4.4 亿，全部加载则是 7.4 亿。Google 在 Pixel 11 Pro 上测试，量化后文本版本最低占用约 191MB 活跃内存，完整版本约 567MB。上下文从上一代 2K 提高到 8K，一次最多可以处理约 5.5 分钟音频、29 张图片或 58 帧视频。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;代码检索提升最明显。MTEB Code 得分从上一代的 68.76 提高到 78.68，多语言文本则基本持平，从 61.15 升到 61.36。模型还支持把默认 768 维向量压到 512、256 或 128 维，最低可以把向量存储空间缩到六分之一。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;许可证也放宽了。上一代 EmbeddingGemma 使用 Google 自己的 Gemma 条款，EmbeddingGemma 2 改成 Apache 2.0。Google 今年发布的 Gemma 4 同样采用 Apache 2.0，最近几款开放模型对商业使用和二次开发明显更友好。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370526" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 02:46:12 +0000</pubDate>
     </item>
     <item>
-      <title>OKX Star：融资并非出于资金需求，而是选择长期战略合作伙伴</title>
-      <link>https://www.theblockbeats.info/flash/370448</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370448</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 6 日，OKX 创始人兼 CEO Star 发文表示，欢迎 Circle、Ripple 和 SC Ventures 成为 OKX 的投资者。OKX 并非因为资金需求而融资，而是选择引入与 OKX 在稳定币、支付、机构市场以及下一代金融基础设施等领域拥有长期愿景共识的战略合作伙伴。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前报道，OKX 以 250 亿美元估值完成融资，渣打银行旗下投资部门 SC Ventures 与 Circle 等参投。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370448" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 6 日，OKX 创始人兼 CEO Star 发文表示，欢迎 Circle、Ripple 和 SC Ventures 成为 OKX 的投资者。OKX 并非因为资金需求而融资，而是选择引入与 OKX 在稳定币、支付、机构市场以及下一代金融基础设施等领域拥有长期愿景共识的战略合作伙伴。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前报道，OKX 以 250 亿美元估值完成融资，渣打银行旗下投资部门 SC Ventures 与 Circle 等参投。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370448" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Tue, 06 Oct 2026 12:38:30 +0000</pubDate>
+      <title>Claude私聊触发人工审查，美国佛州女子写枪击威胁后被捕</title>
+      <link>https://www.theblockbeats.info/flash/370565</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370565</guid>
+      <description>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，美国佛罗里达州一名女子因在 Claude 私聊中写下枪击威胁，被 Anthropic 的安全系统标记。对话随后进入人工审核，审核团队将内容交给警方。女子已被捕，目前面临重罪指控。当地警方称，她后来解释自己把 AI 当作「日记」使用。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;警方的逮捕报告显示，她先写下要袭击李县警长办公室，第二天又称自己刚拿到一把新枪。这不是 Claude 自己决定报警。系统先识别潜在威胁，再把严重内容交给 Anthropic 的人工团队，由人决定是否联系执法部门。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Anthropic 的消费者条款本来就写明，公司可以自行决定把用户的输入、输出或操作报告给执法部门。官方隐私政策也允许公司在认为有必要防止人员或财产遭受严重伤害时，与警方共享个人数据。即使用户关闭模型训练，因安全问题被标记的对话仍可能进入安全审核。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;案件本身还有法律争议。佛州法律要求，这类书面或电子威胁必须以「可被他人查看」的方式发送或传输。当地律师认为，把写给 AI 的私聊套进这条法律并不简单。目前女子只是被指控，尚未定罪。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这也不是孤例。Tom's Hardware 统计，自 8 月以来，至少已有 3 起 Anthropic 聊天内容进入警方视野。此前一名 Claude 用户曾在对话中威胁 Anthropic CEO Dario Amodei，Anthropic 随后主动联系旧金山警方。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370565" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;a href="https://t.me/OneMillion_AI" target="_blank"&gt;动察 Beating&lt;/a&gt; AI 快讯，美国佛罗里达州一名女子因在 Claude 私聊中写下枪击威胁，被 Anthropic 的安全系统标记。对话随后进入人工审核，审核团队将内容交给警方。女子已被捕，目前面临重罪指控。当地警方称，她后来解释自己把 AI 当作「日记」使用。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;警方的逮捕报告显示，她先写下要袭击李县警长办公室，第二天又称自己刚拿到一把新枪。这不是 Claude 自己决定报警。系统先识别潜在威胁，再把严重内容交给 Anthropic 的人工团队，由人决定是否联系执法部门。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Anthropic 的消费者条款本来就写明，公司可以自行决定把用户的输入、输出或操作报告给执法部门。官方隐私政策也允许公司在认为有必要防止人员或财产遭受严重伤害时，与警方共享个人数据。即使用户关闭模型训练，因安全问题被标记的对话仍可能进入安全审核。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;案件本身还有法律争议。佛州法律要求，这类书面或电子威胁必须以「可被他人查看」的方式发送或传输。当地律师认为，把写给 AI 的私聊套进这条法律并不简单。目前女子只是被指控，尚未定罪。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这也不是孤例。Tom's Hardware 统计，自 8 月以来，至少已有 3 起 Anthropic 聊天内容进入警方视野。此前一名 Claude 用户曾在对话中威胁 Anthropic CEO Dario Amodei，Anthropic 随后主动联系旧金山警方。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370565" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 05:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>「挂单揭晓」巨鲸重估BTC后市走法，本周2.3亿美元新单埋下</title>
+      <link>https://www.theblockbeats.info/flash/370691</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370691</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，本周近四日，BTC 重点账户新建且仍保留的大额限价挂单合计约 2.34 亿美元。新的接货与退出计划落在哪里，哪些订单已经靠近现价。此前追踪的数亿美元早期订单已被大幅调整，从近端单点部署，到主力资金集中位置，再到远端分档计划，巨鲸最新的价格预案如下：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据 TradingBeats 监测，BTC 报约 83,026 美元，近期小幅回调。本周新单统计起点为 10 月 5 日 00:00。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;本周新买单：约 1.41 亿美元，两账户贡献逾八成&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;较近的一组阶梯加多计划位于 82,413—82,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370691" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，本周近四日，BTC 重点账户新建且仍保留的大额限价挂单合计约 2.34 亿美元。新的接货与退出计划落在哪里，哪些订单已经靠近现价。此前追踪的数亿美元早期订单已被大幅调整，从近端单点部署，到主力资金集中位置，再到远端分档计划，巨鲸最新的价格预案如下：&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;据 TradingBeats 监测，BTC 报约 83,026 美元，近期小幅回调。本周新单统计起点为 10 月 5 日 00:00。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;本周新买单：约 1.41 亿美元，两账户贡献逾八成&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;较近的一组阶梯加多计划位于 82,413—82,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370691" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>美国AI加速卷成本｜Rewire新闻早报</title>
+      <link>https://www.theblockbeats.info/news/63841</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/news/63841</guid>
+      <description>&lt;p&gt;AI 厂商争夺每一次调用，加密企业重算每一层基础设施的收入。技术可以继续扩张，谁承担成本、谁拿走现金流，正在成为更硬的分界线。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;1｜小模型降价，聊天框开始接管工具入口&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，Anthropic 发布 Haiku 5.5。对不超过 10 万 token 的请求，每百万输入和输出 token 分别为 0.10 和 0.50 美元，标价比 Haiku 4.5 低 90%。公司估算，考虑任务耗用变化，平均运行成本下降约 75%。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;同日，OpenAI 开始推出带有交互界面的 GPT-6，付费档先上线，免费档次日开始扩展。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;两家公司在争夺不同入口。一家降低摘要、分类和子任务的成本，让代理可以调用更多次。另一家把图表、表单和小工具直接放进回答，争取让用户在对话内完成任务。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;由此看，应用厂商面临双重压力。基础智能更便宜了，但计算器、信息比较等轻量工具，也更容易被聊天入口吸收。机会转向专有数据和真实业务流程。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：Anthropic⁠ / OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;2｜微软和英伟达把代理的执行权拉回电脑&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，微软开放 Surface Laptop Ultra 预订，搭载英伟达 RTX Spark，最高配备 128GB 统一内存。英伟达称相关笔记本 10 月 16 日上市，紧凑型桌面机在 11 月开售。与此同时，微软宣布执行容器正式可用，让代理在操作系统控制下持续运行。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;硬件和权限管理被一起推出，说明本地 AI 的竞争已从能否装下模型，走向谁管理代理的执行。微软希望企业继续通过 Windows 分配权限、观察行为，英伟达则把 CUDA 延伸到个人电脑。与云端小模型降价相连，本地设备必须证明长期运行、数据留存和响应速度的价值。推理成本并没有消失，而是部分从按次付费转为设备采购、维护和企业管理费用。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：微软⁠ / 英伟达⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;3｜Abstract关停，品牌流量没有养活一条链&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;据 CoinDesk 10 月 7 日报道，胖企鹅母公司 Igloo 将于 12 月 15 日关闭 Abstract，要求用户提前迁出资产。公司已投入数千万美元，不愿再从胖企鹅业务抽钱支持网络，也决定不通过发币继续融资。报道援引网络披露称，累计交易超过 3.25 亿笔，链上企业收入超过 4000 万美元。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;问题出在收入归属。应用赚钱，不代表底层链能收回运营成本。报道援引 DefiLlama 的当时数据，过去 24 小时链手续费约 3900 美元，应用收入约 3.9 万美元。品牌可以带来钱包和交易，却未必带来足够的链收入。继 Blast 宣布关闭之后，Abstract 再次提示消费型项目，拥有一条链与拥有一个可持续业务，需要分别证明。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：CoinDesk）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;4｜稳定币公司争牌照，公链争结算标准&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;CoinDesk 10 月 7 日报道，稳定币支付公司 Rain 申请美国全国性信托银行牌照，拟开展数字资产托管、储备管理和稳定币发行赎回。申请尚待审批，该银行不会吸收存款、发放商业贷款，也不提供联邦存款保险。10 月 6 日，Solana 基金会发布开源货银对付程序，让资产与付款在一笔原子交易中同时交割。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;两条消息指向金融基础设施的不同层。Rain 希望减少托管和赎回对第三方银行的依赖，Solana 则希望把逐笔定制的结算合约变成可复用标准。与消费链关停相对照，机构业务争夺的是持续处理资产的岗位。速度只是条件之一，资产权属、合规和隐私仍需解决。摩根大通仅向 Solana 提供结算经验输入，公告明确不构成背书。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：CoinDesk⁠ / Solana 基金会⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;5｜油市加快释储，币市仍受利率约束&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，IEA 成员支持加快三月已承诺的石油储备释放，并尽可能优先供应柴油。IEA 称此前已释放约 3.25 亿桶，尚未兑现的承诺约 1 亿桶。这是旧承诺加速执行，不能当作新增供应。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;CoinDesk 当日报道，比特币跌破 8.4 万美元，油价上行伴随美债收益率和美元走高。其引用的当时 24 小时加密清算额约 5.47 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;释储能缓解眼前供应，却不能直接修复航运风险，也不能保证通胀预期回落。对加密资产而言，机构结算与稳定币的进展，未必抵消利率环境收紧的压力。从这组信号看，行业采用和资金价格是两条不同的线。链上基础设施继续扩张，持币者仍要承受能源、债市和杠杆仓位共同传来的波动。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：IEA⁠ / CoinDesk⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;也值得知道 ↓&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic把网络安全能力分成三档准入。 10 月 6 日更新的计划分别面向防御、授权红队和特定高风险系统测试，不同档位对应不同审核与控制要求。模型能力的商业化边界，开始由客户身份和使用权限决定。（来源：Anthropic⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI公开一批内部模型生成的数学成果。 10 月 6 日发布的仓库包含部分 Lean 形式化证明、推理摘要和算力估算。可机器检查的证明有助于验证，但不能把全部发布结果直接等同于已获数学界确认的成果。（来源：OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Atlassian扩大与OpenAI的企业代理合作。 10 月 6 日公告称，模型将与连接人员、项目和文档的 Teamwork Graph 结合，并进入 Rovo。模型变便宜之后，企业软件仍可凭业务上下文和工作入口保留价值。（来源：OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT青少年保护遭独立评估质疑，OpenAI反驳测试方法。 Common Sense Media 10 月 7 日称部分家长提醒未按承诺工作。OpenAI 指出账号关联后需要数小时激活，评估方则坚持结论。争议落在保护功能能否在真实使用中及时生效。（来源：Common Sense Media⁠ / KQED⁠）&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/58433" target="_blank"&gt;点击了解律动BlockBeats 在招岗位&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欢迎加入律动 BlockBeats 官方社群：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 订阅群：&lt;a href="https://t.me/theblockbeats" target="_blank"&gt;https://t.me/theblockbeats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 交流群：&lt;a href="https://t.me/BlockBeats_App" target="_blank"&gt;https://t.me/BlockBeats_App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter 官方账号：&lt;a href="https://twitter.com/BlockBeatsAsia" target="_blank"&gt;https://twitter.com/BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/63841" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;AI 厂商争夺每一次调用，加密企业重算每一层基础设施的收入。技术可以继续扩张，谁承担成本、谁拿走现金流，正在成为更硬的分界线。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;1｜小模型降价，聊天框开始接管工具入口&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，Anthropic 发布 Haiku 5.5。对不超过 10 万 token 的请求，每百万输入和输出 token 分别为 0.10 和 0.50 美元，标价比 Haiku 4.5 低 90%。公司估算，考虑任务耗用变化，平均运行成本下降约 75%。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;同日，OpenAI 开始推出带有交互界面的 GPT-6，付费档先上线，免费档次日开始扩展。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;两家公司在争夺不同入口。一家降低摘要、分类和子任务的成本，让代理可以调用更多次。另一家把图表、表单和小工具直接放进回答，争取让用户在对话内完成任务。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;由此看，应用厂商面临双重压力。基础智能更便宜了，但计算器、信息比较等轻量工具，也更容易被聊天入口吸收。机会转向专有数据和真实业务流程。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：Anthropic⁠ / OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;2｜微软和英伟达把代理的执行权拉回电脑&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，微软开放 Surface Laptop Ultra 预订，搭载英伟达 RTX Spark，最高配备 128GB 统一内存。英伟达称相关笔记本 10 月 16 日上市，紧凑型桌面机在 11 月开售。与此同时，微软宣布执行容器正式可用，让代理在操作系统控制下持续运行。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;硬件和权限管理被一起推出，说明本地 AI 的竞争已从能否装下模型，走向谁管理代理的执行。微软希望企业继续通过 Windows 分配权限、观察行为，英伟达则把 CUDA 延伸到个人电脑。与云端小模型降价相连，本地设备必须证明长期运行、数据留存和响应速度的价值。推理成本并没有消失，而是部分从按次付费转为设备采购、维护和企业管理费用。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：微软⁠ / 英伟达⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;3｜Abstract关停，品牌流量没有养活一条链&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;据 CoinDesk 10 月 7 日报道，胖企鹅母公司 Igloo 将于 12 月 15 日关闭 Abstract，要求用户提前迁出资产。公司已投入数千万美元，不愿再从胖企鹅业务抽钱支持网络，也决定不通过发币继续融资。报道援引网络披露称，累计交易超过 3.25 亿笔，链上企业收入超过 4000 万美元。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;问题出在收入归属。应用赚钱，不代表底层链能收回运营成本。报道援引 DefiLlama 的当时数据，过去 24 小时链手续费约 3900 美元，应用收入约 3.9 万美元。品牌可以带来钱包和交易，却未必带来足够的链收入。继 Blast 宣布关闭之后，Abstract 再次提示消费型项目，拥有一条链与拥有一个可持续业务，需要分别证明。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：CoinDesk）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;4｜稳定币公司争牌照，公链争结算标准&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;CoinDesk 10 月 7 日报道，稳定币支付公司 Rain 申请美国全国性信托银行牌照，拟开展数字资产托管、储备管理和稳定币发行赎回。申请尚待审批，该银行不会吸收存款、发放商业贷款，也不提供联邦存款保险。10 月 6 日，Solana 基金会发布开源货银对付程序，让资产与付款在一笔原子交易中同时交割。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;两条消息指向金融基础设施的不同层。Rain 希望减少托管和赎回对第三方银行的依赖，Solana 则希望把逐笔定制的结算合约变成可复用标准。与消费链关停相对照，机构业务争夺的是持续处理资产的岗位。速度只是条件之一，资产权属、合规和隐私仍需解决。摩根大通仅向 Solana 提供结算经验输入，公告明确不构成背书。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：CoinDesk⁠ / Solana 基金会⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;5｜油市加快释储，币市仍受利率约束&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;10 月 7 日，IEA 成员支持加快三月已承诺的石油储备释放，并尽可能优先供应柴油。IEA 称此前已释放约 3.25 亿桶，尚未兑现的承诺约 1 亿桶。这是旧承诺加速执行，不能当作新增供应。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;CoinDesk 当日报道，比特币跌破 8.4 万美元，油价上行伴随美债收益率和美元走高。其引用的当时 24 小时加密清算额约 5.47 亿美元。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;释储能缓解眼前供应，却不能直接修复航运风险，也不能保证通胀预期回落。对加密资产而言，机构结算与稳定币的进展，未必抵消利率环境收紧的压力。从这组信号看，行业采用和资金价格是两条不同的线。链上基础设施继续扩张，持币者仍要承受能源、债市和杠杆仓位共同传来的波动。&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（来源：IEA⁠ / CoinDesk⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2&gt;也值得知道 ↓&lt;/h2&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Anthropic把网络安全能力分成三档准入。 10 月 6 日更新的计划分别面向防御、授权红队和特定高风险系统测试，不同档位对应不同审核与控制要求。模型能力的商业化边界，开始由客户身份和使用权限决定。（来源：Anthropic⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI公开一批内部模型生成的数学成果。 10 月 6 日发布的仓库包含部分 Lean 形式化证明、推理摘要和算力估算。可机器检查的证明有助于验证，但不能把全部发布结果直接等同于已获数学界确认的成果。（来源：OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Atlassian扩大与OpenAI的企业代理合作。 10 月 6 日公告称，模型将与连接人员、项目和文档的 Teamwork Graph 结合，并进入 Rovo。模型变便宜之后，企业软件仍可凭业务上下文和工作入口保留价值。（来源：OpenAI⁠）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;ChatGPT青少年保护遭独立评估质疑，OpenAI反驳测试方法。 Common Sense Media 10 月 7 日称部分家长提醒未按承诺工作。OpenAI 指出账号关联后需要数小时激活，评估方则坚持结论。争议落在保护功能能否在真实使用中及时生效。（来源：Common Sense Media⁠ / KQED⁠）&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/58433" target="_blank"&gt;点击了解律动BlockBeats 在招岗位&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;欢迎加入律动 BlockBeats 官方社群：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 订阅群：&lt;a href="https://t.me/theblockbeats" target="_blank"&gt;https://t.me/theblockbeats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Telegram 交流群：&lt;a href="https://t.me/BlockBeats_App" target="_blank"&gt;https://t.me/BlockBeats_App&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Twitter 官方账号：&lt;a href="https://twitter.com/BlockBeatsAsia" target="_blank"&gt;https://twitter.com/BlockBeatsAsia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/news/63841" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>OpenAI一夜攻克722个数学难题，以太坊基金会核心研究员呼吁行业进入「堡垒模式」</title>
+      <link>https://www.theblockbeats.info/flash/370672</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370672</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，以太坊基金会核心研究员 Justin Drake 今晨发文呼吁区块链行业进入「堡垒模式」（bunker mode）：逐步将资产迁移到新地址，把公钥隐藏在哈希后面，以应对 AI 可能带来的快速 ECDSA 私钥恢复风险。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这一警告源于 OpenAI 在 10 月 6 日发布的 722 篇数学论文，其中包含对多个长期猜想的反证（如 Erdős 单位距离问题、n log(n) 整数乘法下界等），显示出数学超级智能正在快速逼近。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Drake 建议大户和交易平台率先行动、避免恐慌；同时指出较小的 BTC 钱包因「中本聪之盾」（Satoshi's shield）仍有部分保护；并呼吁加速采用基于哈希的密码学（如 SPHINCS），将其作为后 AI 时代的标准。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;对于 Drake 的呼吁&lt;strong&gt;，Vitalik 建议在操作方便的情况下，优先将资金存放于尚未发起过交易的地址，但不建议用户立即仓促迁移资产，因为迁移本身也存在资金损失风险。&lt;/strong&gt;他还建议多签钱包尽量采用链下签名确认，避免公开暴露签名信息。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370672" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，以太坊基金会核心研究员 Justin Drake 今晨发文呼吁区块链行业进入「堡垒模式」（bunker mode）：逐步将资产迁移到新地址，把公钥隐藏在哈希后面，以应对 AI 可能带来的快速 ECDSA 私钥恢复风险。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这一警告源于 OpenAI 在 10 月 6 日发布的 722 篇数学论文，其中包含对多个长期猜想的反证（如 Erdős 单位距离问题、n log(n) 整数乘法下界等），显示出数学超级智能正在快速逼近。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Drake 建议大户和交易平台率先行动、避免恐慌；同时指出较小的 BTC 钱包因「中本聪之盾」（Satoshi's shield）仍有部分保护；并呼吁加速采用基于哈希的密码学（如 SPHINCS），将其作为后 AI 时代的标准。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;对于 Drake 的呼吁&lt;strong&gt;，Vitalik 建议在操作方便的情况下，优先将资金存放于尚未发起过交易的地址，但不建议用户立即仓促迁移资产，因为迁移本身也存在资金损失风险。&lt;/strong&gt;他还建议多签钱包尽量采用链下签名确认，避免公开暴露签名信息。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370672" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 08 Oct 2026 01:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HYPE财库公司PURR CEO否认承接Hyperliquid团队的375万枚HYPE</title>
+      <link>https://www.theblockbeats.info/flash/370670</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370670</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，HYPE 财库公司 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; Strategies DAT(PURR) CEO David Schamis 发文表示，他们并非 Hyperliquid Labs 价值 3.2 亿美元 HYPE 代币场外交易的买家。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前消息，Hyperliquid 开发团队 HyperLabs 通过 OTC 出售 375 万枚 HYPE。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370670" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，HYPE 财库公司 &lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; Strategies DAT(PURR) CEO David Schamis 发文表示，他们并非 Hyperliquid Labs 价值 3.2 亿美元 HYPE 代币场外交易的买家。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前消息，Hyperliquid 开发团队 HyperLabs 通过 OTC 出售 375 万枚 HYPE。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370670" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 08 Oct 2026 01:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyperliquid开发团队或通过OTC出售375万枚HYPE，其中125万枚已被重新质押</title>
+      <link>https://www.theblockbeats.info/flash/370665</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370665</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，据余烬监测，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 开发团队 HyperLabs 在 8 小时前成功赎回的 375 万枚 HYPE (3.32 亿美元)，4 小时前在经过 5 个钱包分发后最终归集到了 0x875...1d1 地址 (应该是从团队手上 OTC 买币的机构)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;然后其中 125 万枚 HYPE (1.1 亿美元) 被重新存回了质押，另外 250 万枚 HYPE (2.2 亿美元) 仍在钱包。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;HyperLabs 成员此前在 Discord 表示，上述 375 万枚 HYPE 赎回后会分配给团队，然后再以 OTC 交易方式卖给一家机构。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370665" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，据余烬监测，&lt;a href="https://app.hyperliquid.xyz/join/NTOD" rel="noopener" target="_blank"&gt;Hyperliquid&lt;/a&gt; 开发团队 HyperLabs 在 8 小时前成功赎回的 375 万枚 HYPE (3.32 亿美元)，4 小时前在经过 5 个钱包分发后最终归集到了 0x875...1d1 地址 (应该是从团队手上 OTC 买币的机构)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;然后其中 125 万枚 HYPE (1.1 亿美元) 被重新存回了质押，另外 250 万枚 HYPE (2.2 亿美元) 仍在钱包。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;HyperLabs 成员此前在 Discord 表示，上述 375 万枚 HYPE 赎回后会分配给团队，然后再以 OTC 交易方式卖给一家机构。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370665" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 08 Oct 2026 00:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>美国政府凌晨持续转移大量加密资产，近32小时累计转出价值6.7亿美元代币</title>
+      <link>https://www.theblockbeats.info/flash/370664</link>
+      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370664</guid>
+      <description>&lt;p&gt;BlockBeats 消息，10 月 8 日，据余烬监测，美国政府地址在昨晚到今天凌晨期间，继续转出了 5,382.1 枚 BTC (4.48 亿美元) 进入 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;从昨天凌晨到现在，32 个小时里他们累计转出了价值 6.7 亿美元的代币，包括 ：6,215.7 枚 BTC (5.2 亿美元)；1.19 亿枚 USDT；40,285 枚 BNB (3163 万美元)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;其中 BTC 跟 USDT 全部都进入了 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370664" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 8 日，据余烬监测，美国政府地址在昨晚到今天凌晨期间，继续转出了 5,382.1 枚 BTC (4.48 亿美元) 进入 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;从昨天凌晨到现在，32 个小时里他们累计转出了价值 6.7 亿美元的代币，包括 ：6,215.7 枚 BTC (5.2 亿美元)；1.19 亿枚 USDT；40,285 枚 BNB (3163 万美元)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;其中 BTC 跟 USDT 全部都进入了 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370664" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 08 Oct 2026 00:14:05 +0000</pubDate>
     </item>
     <item>
       <title>Coinbase将上线PONS现货交易</title>
@@ -85,6 +265,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/370653</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，Coinbase 将于 10 月 7 日上线 Pons (PONS) 现货交易。如果流动性条件满足，并且相关地区支持交易，那么 PONS-USD 交易对将于今日开放。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370653" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，Coinbase 将于 10 月 7 日上线 Pons (PONS) 现货交易。如果流动性条件满足，并且相关地区支持交易，那么 PONS-USD 交易对将于今日开放。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370653" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 15:54:23 +0000</pubDate>
     </item>
     <item>
       <title>美国政府再次向Coinbase Prime转移750.2枚WBTC，约合6234万美元</title>
@@ -92,6 +273,7 @@
       <guid isPermaLink="true">https://www.theblockbeats.info/flash/370647</guid>
       <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据链上分析师余烬监测，在今天凌晨转出 1.03 亿美元资产后，美国政府地址 15 分钟前再次向 Coinbase Prime 转移了 750.2 枚 WBTC (6234 万美元)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国政府地址 24 小时内转出了价值 1.65 亿美元资产，其中 1,583.8 枚 BTC (1.34 亿美元) 进入了 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370647" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据链上分析师余烬监测，在今天凌晨转出 1.03 亿美元资产后，美国政府地址 15 分钟前再次向 Coinbase Prime 转移了 750.2 枚 WBTC (6234 万美元)。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;美国政府地址 24 小时内转出了价值 1.65 亿美元资产，其中 1,583.8 枚 BTC (1.34 亿美元) 进入了 Coinbase Prime。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370647" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 15:13:44 +0000</pubDate>
     </item>
     <item>
       <title>拜登之子将LAPTOP上线后暴跌归咎于做市商，并否认团队套现</title>
@@ -132,62 +314,6 @@
       <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，CoinDesk 分析师 Krisztian Sandor 发文表示，以太坊财库公司 BitMine 董事长 Tom Lee 在新加坡 TOKEN2049 大会上称公司将在 ETH 持仓达到流通供应量 5% 后停止买入，目前距目标还差约 100,000 枚 ETH。公司最新披露持有 6,016,414 枚 ETH，约占流通供应量的 4.9%，按周三价格计算价值约 155 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BitMine 上周增持约 4100 万美元 ETH。若维持这一购入速度，达到 5% 目标预计还需六至七周。公司另持有 6.43 亿美元现金及可交易证券，按当前价格计算，超过完成剩余购入所需资金的两倍。Lee 表示，原本预计需要五年完成的积累目标，仅用一年多便接近实现。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BitMine 称，自 2025 年 6 月启动 ETH 财库策略以来，公司每周均有买入，为市场提供了持续需求。Lee 称购入是在熊市中完成，但大量购入发生在去年牛市、价格较高的阶段。DropsTab 数据显示，公司 ETH 持仓目前浮亏约 45 亿美元。ETH 周三过去 24 小时下跌约 5%，跌至 9 月 20 日以来最低水平。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370624" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，CoinDesk 分析师 Krisztian Sandor 发文表示，以太坊财库公司 BitMine 董事长 Tom Lee 在新加坡 TOKEN2049 大会上称公司将在 ETH 持仓达到流通供应量 5% 后停止买入，目前距目标还差约 100,000 枚 ETH。公司最新披露持有 6,016,414 枚 ETH，约占流通供应量的 4.9%，按周三价格计算价值约 155 亿美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BitMine 上周增持约 4100 万美元 ETH。若维持这一购入速度，达到 5% 目标预计还需六至七周。公司另持有 6.43 亿美元现金及可交易证券，按当前价格计算，超过完成剩余购入所需资金的两倍。Lee 表示，原本预计需要五年完成的积累目标，仅用一年多便接近实现。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;BitMine 称，自 2025 年 6 月启动 ETH 财库策略以来，公司每周均有买入，为市场提供了持续需求。Lee 称购入是在熊市中完成，但大量购入发生在去年牛市、价格较高的阶段。DropsTab 数据显示，公司 ETH 持仓目前浮亏约 45 亿美元。ETH 周三过去 24 小时下跌约 5%，跌至 9 月 20 日以来最低水平。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370624" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
       <pubDate>Wed, 07 Oct 2026 12:45:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arthur Hayes：AI热潮正「浪费」数万亿美元并可能引发崩盘及救助，比特币或受益于过剩流动性</title>
-      <link>https://www.theblockbeats.info/flash/370622</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370622</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，BitMEX 联合创始人 Arthur Hayes 在新加坡 Gamma Prime 投资大会上表示，人类正在 AI 数据中心建设上「浪费数万亿美元」。他押注本轮 AI 热潮最终将经历过度投资、崩盘及救助，而救助释放的过剩流动性可能推动比特币和其他加密资产上涨。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hayes 认为，科技公司竞相建设数据中心、争夺算力，最终将导致产能过剩，使计算能力变得「极其廉价且充裕」。他表示：「如果研究金融历史以及每一次重大技术推广，就会发现它们总是被过度建设，总会出现崩盘，也总会出现救助。」他以 2008 年金融危机及过去二十年的其他事件为例，认为提前为救助政策布局的投资者可能受益，但需要保持耐心。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他指出，SpaceX、OpenAI 及 Anthropic 等算力需求方尚未盈利。当目前在建的数据中心完工，基础设施提供商将要求这些客户支付此前承诺购买的算力费用。他预计，这一考验可能出现在 2027 年末或 2028 年，即大量新增数据中心产能交付之时。另一种看涨情景是，AI 在未来 12 个月内变得足够有用，带动需求增长，使 AI 企业实现盈利。Hayes 同时承认，存储芯片制造商及英伟达等 AI 供应商已经盈利，投资者需要判断其前瞻盈利所对应的估值倍数是否合理。他表示，自己并不喜欢押注价格下跌或做空 AI 公司，认为这「并不是一个特别好的投资机会」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;算力变得廉价且充裕，也是其新项目 Flop 的基础。该 AI 智能体支付项目预计于 2027 年第一季度推出，计划建立算力现货市场，以 Flop 代币奖励提供 GPU 及执行 AI 推理的参与者。Hayes 认为，更便宜的算力将推动智能体普及：「如果智能体可以将一种货币直接兑换成它们所消耗的算力，它们就会使用这种货币。这就是我们的押注。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370622" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，BitMEX 联合创始人 Arthur Hayes 在新加坡 Gamma Prime 投资大会上表示，人类正在 AI 数据中心建设上「浪费数万亿美元」。他押注本轮 AI 热潮最终将经历过度投资、崩盘及救助，而救助释放的过剩流动性可能推动比特币和其他加密资产上涨。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Hayes 认为，科技公司竞相建设数据中心、争夺算力，最终将导致产能过剩，使计算能力变得「极其廉价且充裕」。他表示：「如果研究金融历史以及每一次重大技术推广，就会发现它们总是被过度建设，总会出现崩盘，也总会出现救助。」他以 2008 年金融危机及过去二十年的其他事件为例，认为提前为救助政策布局的投资者可能受益，但需要保持耐心。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;他指出，SpaceX、OpenAI 及 Anthropic 等算力需求方尚未盈利。当目前在建的数据中心完工，基础设施提供商将要求这些客户支付此前承诺购买的算力费用。他预计，这一考验可能出现在 2027 年末或 2028 年，即大量新增数据中心产能交付之时。另一种看涨情景是，AI 在未来 12 个月内变得足够有用，带动需求增长，使 AI 企业实现盈利。Hayes 同时承认，存储芯片制造商及英伟达等 AI 供应商已经盈利，投资者需要判断其前瞻盈利所对应的估值倍数是否合理。他表示，自己并不喜欢押注价格下跌或做空 AI 公司，认为这「并不是一个特别好的投资机会」。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;算力变得廉价且充裕，也是其新项目 Flop 的基础。该 AI 智能体支付项目预计于 2027 年第一季度推出，计划建立算力现货市场，以 Flop 代币奖励提供 GPU 及执行 AI 推理的参与者。Hayes 认为，更便宜的算力将推动智能体普及：「如果智能体可以将一种货币直接兑换成它们所消耗的算力，它们就会使用这种货币。这就是我们的押注。」&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370622" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 12:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>分析：2025年比特币买入群体整体仍处于浮亏，8.8万美元或成关键阻力</title>
-      <link>https://www.theblockbeats.info/flash/370615</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370615</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，2025 年买入比特币的投资者是目前唯一仍整体处于浮亏的年度买入群体，其平均成本约为 88,000 美元。比特币 9 月曾升至 87,500 美元，随后横盘并于周三回落至 84,000 美元下方。由于部分较近期买入者可能选择在回本时卖出，88,000 美元或成为关键阻力位。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;年度成交量加权成本在本轮周期中曾多次形成支撑或阻力。比特币 5 月升至约 82,100 美元、触及 2024 年买入群体平均成本后受阻，随后跌至 60,000 美元，直到 8 月才突破该水平。2023 年买入群体当前平均成本约为 65,000 美元，在 2026 年熊市期间总体发挥支撑作用，但价格也曾短暂跌破。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2026 年买入群体平均成本约为 73,500 美元，自 8 月下旬比特币突破该水平后，大部分时间处于盈利状态。美国现货比特币 ETF 资金的平均成本约为 82,300 美元，其投资者近期才首次在今年恢复整体盈利，该水平可能成为进一步回落时的支撑位。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370615" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，2025 年买入比特币的投资者是目前唯一仍整体处于浮亏的年度买入群体，其平均成本约为 88,000 美元。比特币 9 月曾升至 87,500 美元，随后横盘并于周三回落至 84,000 美元下方。由于部分较近期买入者可能选择在回本时卖出，88,000 美元或成为关键阻力位。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;年度成交量加权成本在本轮周期中曾多次形成支撑或阻力。比特币 5 月升至约 82,100 美元、触及 2024 年买入群体平均成本后受阻，随后跌至 60,000 美元，直到 8 月才突破该水平。2023 年买入群体当前平均成本约为 65,000 美元，在 2026 年熊市期间总体发挥支撑作用，但价格也曾短暂跌破。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;2026 年买入群体平均成本约为 73,500 美元，自 8 月下旬比特币突破该水平后，大部分时间处于盈利状态。美国现货比特币 ETF 资金的平均成本约为 82,300 美元，其投资者近期才首次在今年恢复整体盈利，该水平可能成为进一步回落时的支撑位。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370615" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 11:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>过去24小时全网爆仓超6亿美元，超10万人被爆仓</title>
-      <link>https://www.theblockbeats.info/flash/370613</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370613</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据 Coinglass 数据显示，过去 24 小时全网爆仓 6.09 亿美元，其中多单爆仓 5.45 亿美元，空单爆仓 6439 万美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;全球共有 105,660 人被爆仓，最大单笔爆仓单发生在 Binance - ETHUSDC 价值 2664.38 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370613" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据 Coinglass 数据显示，过去 24 小时全网爆仓 6.09 亿美元，其中多单爆仓 5.45 亿美元，空单爆仓 6439 万美元。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;全球共有 105,660 人被爆仓，最大单笔爆仓单发生在 Binance - ETHUSDC 价值 2664.38 万美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370613" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 11:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>英特尔确认继续参与马斯克Terafab项目，此前台积电潜在介入引发市场担忧</title>
-      <link>https://www.theblockbeats.info/flash/370609</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370609</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据彭博报道，英特尔 CEO 陈立武 10 月 7 日在东京接受采访时表示，英特尔将继续参与马斯克的 Terafab 项目。英特尔今年 4 月已签约成为该项目的开发合作伙伴，此次表态意味着公司目前并未退出该项目。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前，马斯克透露正与台积电讨论 Terafab 的潜在合作，此举引发市场对台积电介入后英特尔项目角色可能受到影响的担忧，英特尔股价一度下跌 3.9%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Terafab 是马斯克进军先进芯片制造领域的重要计划。随着 AI 基础设施持续扩张，全球芯片及相关设备需求增长，多类供应链环节面临产能压力。彭博此前报道称，马斯克已要求供应商加速推进 Terafab，滚珠轴承、芯片制造设备、工业化学品和导轨等多类供应商目前均处于高负荷状态。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370609" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据彭博报道，英特尔 CEO 陈立武 10 月 7 日在东京接受采访时表示，英特尔将继续参与马斯克的 Terafab 项目。英特尔今年 4 月已签约成为该项目的开发合作伙伴，此次表态意味着公司目前并未退出该项目。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;此前，马斯克透露正与台积电讨论 Terafab 的潜在合作，此举引发市场对台积电介入后英特尔项目角色可能受到影响的担忧，英特尔股价一度下跌 3.9%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Terafab 是马斯克进军先进芯片制造领域的重要计划。随着 AI 基础设施持续扩张，全球芯片及相关设备需求增长，多类供应链环节面临产能压力。彭博此前报道称，马斯克已要求供应商加速推进 Terafab，滚珠轴承、芯片制造设备、工业化学品和导轨等多类供应商目前均处于高负荷状态。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370609" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 10:48:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>比特币跌至8.42万美元附近，阶梯式上涨结构仍未破坏</title>
-      <link>https://www.theblockbeats.info/flash/370582</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370582</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，比特币周三一度跌至约 8.35 万美元，现震荡于 8.42 万美元附近，较周二约 86500 美元的高点回落逾 2%，但仍处于过去两周形成的 83,000 至 87,000 美元区间内，持续数月的「阶梯式」上涨结构尚未被破坏。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Giottus CEO Vikram Subburaj 表示，自 7 月以来，BTC 通过一系列逐级抬高的横盘区间形成阶梯式走势：7 月中旬至 8 月 18 日主要在 62,000 至 67,000 美元震荡，随后 3 日上涨 21%；8 月底至 9 月中旬在 76,000 至 81,500 美元区间运行，9 月 19 日至 21 日再涨 6.6%，此后则维持在 83,000 至 87,000 美元区间。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Subburaj 指出，83,000 美元是当前关键支撑位，若有效跌破，可能意味着 9 月突破失败，并重新测试 80,000 至 81,500 美元区域。FxPro 首席市场分析师 Alex Kuptsikevich 则认为 84,000 美元附近是更重要的支撑位，跌破后或进一步下探 80,000 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370582" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，比特币周三一度跌至约 8.35 万美元，现震荡于 8.42 万美元附近，较周二约 86500 美元的高点回落逾 2%，但仍处于过去两周形成的 83,000 至 87,000 美元区间内，持续数月的「阶梯式」上涨结构尚未被破坏。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Giottus CEO Vikram Subburaj 表示，自 7 月以来，BTC 通过一系列逐级抬高的横盘区间形成阶梯式走势：7 月中旬至 8 月 18 日主要在 62,000 至 67,000 美元震荡，随后 3 日上涨 21%；8 月底至 9 月中旬在 76,000 至 81,500 美元区间运行，9 月 19 日至 21 日再涨 6.6%，此后则维持在 83,000 至 87,000 美元区间。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Subburaj 指出，83,000 美元是当前关键支撑位，若有效跌破，可能意味着 9 月突破失败，并重新测试 80,000 至 81,500 美元区域。FxPro 首席市场分析师 Alex Kuptsikevich 则认为 84,000 美元附近是更重要的支撑位，跌破后或进一步下探 80,000 美元。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370582" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 08:03:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binance完成STG向ZRO代币迁移，兑换比例为1:0.08634</title>
-      <link>https://www.theblockbeats.info/flash/370581</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370581</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，Binance 公告称，已完成 Stargate Finance（STG）代币向 LayerZero（ZRO）的迁移，分发比例为 1 枚 STG 兑换 0.08634 枚 ZRO。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;用户可通过 Binance 查看 ZRO 分发记录及对应的 ZRO 充值地址，原 STG 代币的充值和提现功能将不再支持。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370581" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，Binance 公告称，已完成 Stargate Finance（STG）代币向 LayerZero（ZRO）的迁移，分发比例为 1 枚 STG 兑换 0.08634 枚 ZRO。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;用户可通过 Binance 查看 ZRO 分发记录及对应的 ZRO 充值地址，原 STG 代币的充值和提现功能将不再支持。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370581" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 08:01:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abstract关停公告后，某新建地址集中买入25枚胖企鹅NFT</title>
-      <link>https://www.theblockbeats.info/flash/370567</link>
-      <guid isPermaLink="true">https://www.theblockbeats.info/flash/370567</guid>
-      <description>&lt;p&gt;BlockBeats 消息，10 月 7 日，据链上信息，Abstract 关停公告后不久，某新建地址从 Kraken 提取 100 万美元，随后在市场上快速买入 25 枚胖企鹅 NFT。截止发稿，其钱包内仍有价值 76.6 万美元 ETH。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截止发稿，胖企鹅 NFT 地板价报 3.3 ETH，24 小时涨幅达 6.8%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Pudgy Penguins CEO Luca Netz 发文称，Abstract 正在逐步关闭，母公司 Igloo Inc. 即日起将把全部精力转向 Pudgy Penguins、Pudgy NFTs 及 PENGU 的发展。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370567" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;p&gt;BlockBeats 消息，10 月 7 日，据链上信息，Abstract 关停公告后不久，某新建地址从 Kraken 提取 100 万美元，随后在市场上快速买入 25 枚胖企鹅 NFT。截止发稿，其钱包内仍有价值 76.6 万美元 ETH。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;截止发稿，胖企鹅 NFT 地板价报 3.3 ETH，24 小时涨幅达 6.8%。&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Pudgy Penguins CEO Luca Netz 发文称，Abstract 正在逐步关闭，母公司 Igloo Inc. 即日起将把全部精力转向 Pudgy Penguins、Pudgy NFTs 及 PENGU 的发展。&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theblockbeats.info/flash/370567" target="_blank" rel="noopener"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
-      <pubDate>Wed, 07 Oct 2026 06:18:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
